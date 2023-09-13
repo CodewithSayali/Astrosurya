@@ -1,0 +1,217 @@
+<div class="content-page">
+    <div class="content">
+        <div class="">
+            <!-- Page-Title --> 
+            <div class="row">
+                <div class="col-sm-12">
+                    <h4 class="page-title">Manage Settings</h4>
+                </div>
+            </div>
+            <!-- end page title end breadcrumb -->
+            <div class="row">
+                <div class="col-12">
+                    <div class="card-box table-responsive">
+
+                        <table id="datatable" class="table table-bordered custom-table">
+                            <thead class="thead-bg">
+                                <tr>
+                                    <th>Sr. No.</th>
+                                    <th>Name</th>
+                                    <th>Logo</th>
+                                    <th>Action</th>
+                                </tr>
+                            </thead>
+
+                            <tbody class="tr-bg">
+                                <?php
+                                if (!empty($settings)) {
+                                    $id = 1;
+                                    foreach ($settings as $setting) {
+                                        if ($setting['logo'] != '') {
+                                            $image_url = base_url() . "/admin-assets/uploads/setting/" . $setting['id'] . "/" . $setting['logo'];
+                                        } else {
+                                            $image_url = base_url() . "/admin-assets/uploads/setting/menu-logo.png";
+                                        }
+                                        ?>
+                                        <tr>
+                                            <td style="text-align:center;"><?= $id; ?></td> 
+                                            <td style="text-align:center;"><?= $setting['name'] ?></td>
+                                            <td style="text-align:center;" id="divLogo<?= $setting['id'] ?>"><img src="<?= $image_url ?>" width="100px" height="50px"></td>
+                                            <td style="text-align:center;" class="edit-icons">
+                                                <a href="" class="icon-btn btn-edit" data-toggle="modal" data-target="#edit" rel="tooltip" data-name="<?= $setting['name'] ?>" data-id="<?= $setting['id'] ?>" title="Edit"><i class="fa fa-pencil" aria-hidden="true"></i></a>
+                                            </td>
+                                        </tr>
+                                        <?php
+                                        $id++;
+                                    }
+                                }
+                                ?>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div> 
+    </div>
+    <div class="modal fade custom-modal" id="edit">
+        <div class="modal-dialog modal-sm">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h2>Edit Settings</h2>
+            </div>
+            <div class="modal-content">
+                <!-- Modal body -->
+                <div class="modal-body">
+                    <form id="frmLogoUpload" data-parsley-validate novalidate>
+                        <div class="form-group">
+                            <input type="hidden" name="settingId" id="settingId">
+                             <input type="text" name="settingName" id="settingName" class="form-control" value="">
+<!--                            <input type="text" name="nick" parsley-trigger="change" required
+                                    placeholder="Enter Brand Name" class="form-control" id="userName" name="userName">-->
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-12 dly-sht">
+                                <label for="before_crop_image" class="choose-btn4 form-control" id="chooseBtn5">Select Logo</label>
+                                <input class="form-control" type="file" id="before_crop_image"  accept="image/*">
+                                <i class="fa fa-upload" aria-hidden="true"></i>
+                            </div>
+                        </div>
+                        <input type="submit" name="btnSubmit" value="Submit" class="form-control popup-but">
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        <div id="imageModel" class="modal fade bd-example-modal-lg" role="dialog"  data-backdrop="false">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">×</button>
+                <h4 class="modal-title">Upload & crop logo</h4>
+            </div>
+            <div class="modal-body">
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <div id="image_demo" ></div>
+                    </div>
+                    <div class="col-md-4 img-btn">
+                        <button class="btn btn-success crop_image">Save</button>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                <div id="image-preview"
+                     style=""></div>
+            </div>
+            </div>
+<!--            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>-->
+            
+        </div>
+    </div>
+</div>
+</div>
+<script>
+//    var hiddenBtn3 = document.getElementById('hiddenBtn3');
+//    var chooseBtn3 = document.getElementById('chooseBtn3');
+//
+//    hiddenBtn3.addEventListener('change', function () {
+//        if (hiddenBtn3.files.length > 0) {
+//            chooseBtn3.innerText = hiddenBtn3.files[0].name;
+//        } else {
+//            chooseBtn3.innerText = 'Select Logo';
+//        }
+//    });
+
+    var before_crop_image = document.getElementById('before_crop_image');
+    var chooseBtn5 = document.getElementById('chooseBtn5');
+
+        before_crop_image.addEventListener('change', function () {
+            if (before_crop_image.files.length > 0) {
+                chooseBtn5.innerText = before_crop_image.files[0].name;
+            } else {
+                chooseBtn5.innerText = 'Select Logo';
+            }
+        });
+    $(document).ready(function () {
+
+        $('.btn-edit').on('click', function (e) {
+            e.preventDefault();
+//                 alert("btn-edit");
+            var setting_id = $(this).attr('data-id');
+            var setting_name = $(this).attr('data-name');
+            var url = "<?php echo base_url('update-setting-logo') ?>";
+            $('#settingName').val(setting_name);
+            $('#settingId').val(setting_id);
+            $("#chooseBtn5").html = "Select Logo";
+        });
+
+
+        $image_crop = $('#image_demo').croppie({
+            enableExif: true,
+            enableResize: true,
+            viewport: {
+                width: 300,
+                height: 76,
+                type: 'rectangle' //circle
+            },
+            boundary: {
+                width: 400,
+                height: 400
+            }
+        });
+        $('#before_crop_image').on('change', function () {
+            var reader = new FileReader();
+            reader.onload = function (event) {
+                $image_crop.croppie('bind', {
+                    url: event.target.result
+                }).then(function () {
+
+                    console.log('jQuery bind complete');
+                });
+            }
+            reader.readAsDataURL(this.files[0]);
+            $('#imageModel').modal('show');
+        });
+
+        $('.crop_image').click(function (event) {
+            var id = $('#settingId').val();
+            $image_crop.croppie('result', {
+                type: 'canvas',
+                size: 'viewport'
+            }).then(function (response) {
+                $.ajax({
+                    url: "<?php echo base_url('admin/logo-crop'); ?>",
+                    type: 'POST',
+                    dataType: "JSON",
+                    data: {image: response, id: id},
+                    success: function (data) {
+//                        console.log(data);
+                        if (data.success == true) {
+                            $('#imageModel').modal('hide');
+                            $('#edit').modal('hide');
+                            var newhtml = '<img src="' + data.source + '" />';
+                            $("#divLogo" + id).html(newhtml);
+
+                            toastr.success(data.msg);
+                        } else
+                        {
+                            $('#imageModel').modal('hide');
+                            $('#edit').modal('hide');
+                            toastr.error(data.msg);
+                        }
+                        $("#before_crop_image").val('');
+                        $("#chooseBtn5").html = "Select Logo";
+                        //chooseBtn5.innerText = 'Choose';
+                        //alert('Crop image has been uploaded');
+                    }
+                });
+            });
+        });
+
+    });
+
+
+</script>
+

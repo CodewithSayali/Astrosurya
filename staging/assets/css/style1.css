@@ -1,0 +1,4355 @@
+
+html {
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.bg-color {
+    background: #F9F6F0;
+}
+
+
+.kundli-select.bott-kundli {
+    display: none;
+}
+.main-banner .hemant-cont {
+    position: relative;
+}
+/*========Media Query=====*/
+@media (max-width:2560px){    
+  
+    .copy-right {
+        height: 90px;
+    }
+    
+.contact-call-text p {
+    margin-bottom: 7px;
+}
+.login-box .detail-box .login-box input{
+    border-radius: 9px;
+}
+.content-404.aos-init.aos-animate {
+    margin-bottom: 4rem;
+}
+
+.content-thank {
+    margin-bottom: 6rem;
+}
+
+.bannerr-content .about-main-content.main-login {
+    padding-bottom: 5rem;
+}
+.top-numerology strong, .bottom-numerology strong {
+    margin-left: 10px;
+}
+}
+
+@media (max-width:1920px){
+ 
+    .privacy-content h1{
+        padding: 5rem 0 1rem 0;
+    }
+    
+    
+    
+
+}
+@media (max-width:1800px){
+}
+
+@media (max-width:1600px){
+
+
+}
+@media (max-width:1440px){
+
+
+
+.content-privacy, .content-404, .content-daily-horoscope {
+   padding-top: 20px;
+}
+}
+@media (max-width:1366px){     
+
+.copy-right {
+    height: 70px;
+}
+}
+@media (max-width:1280px){
+    .main-banner .swastik-logo img{
+            bottom: 40px;
+    }
+    .form-contactus {
+    width: 299px;
+}
+    .form-contactus:before {
+        width: 275px;
+    }
+    .service-card-header-box {
+    width: 49.2%;
+    }
+    .service-card-header h2 {
+    width: 489px;
+}
+ 
+
+
+
+    .privacy-content h1 {
+    padding: 3.5rem 0 0rem 0;
+}
+  
+.privacy-content.aos-init.aos-animate {
+    padding: 0 58px;
+}    
+}
+@media (max-width:1229px){
+    .timebox-date.format-label {
+    width: 157px;
+}
+    .service-card-header-box {
+    width: 51%;
+}
+   .login-page .circle-slide img {width: 355px;}
+   
+   .welcome-back .login-boxx a {
+    font-size: 9px;
+}
+   
+}
+
+@media (max-width:1199px){
+    .login-page .circle-slide img {width: 355px;}
+    .login-page .input-box {
+    width: 85%;
+    }
+    .login-page .login-box .login-boxx{
+        width: 85%;
+    }
+}
+
+@media (max-width:1080px){
+    .jodiac-sec .col-md-1 {
+    display: none;
+}
+    .timebox-date.format-label {
+    width: 135px;
+}
+    .form-contactus {
+    width: 253px;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow {
+    top: 205px;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 205px;
+}
+.privacy-main, .light-bg {
+
+    margin-bottom: 0rem;
+}
+    .contact-input input {
+    width: 75%;
+    }
+    .contact-input textarea {
+    width: 75%;
+    }
+    .form-contactus:before {
+    width: 228px;
+}
+    .service-card-header h2 {
+    width: 437px;
+}
+.service-card-header-box {
+    width: 53%;
+}
+.service-card-header h2:before {
+    bottom: -28px;
+}
+
+    .jodiac-sec .aos-animate .col-md-1 {
+    display: none;
+}
+ .jodiac-sec .jodic-head h2:before {
+    left: 435px;
+ }
+ .jodiac-sec .jodic-head h2:after {
+    left: 461px;
+ }
+.privacy-content h1 {
+    font-size: 36px;
+    padding: 2.5rem 0rem 0;
+}
+     
+.privacy-content.aos-init.aos-animate {
+    padding: 0 45px;
+}
+.image-bg .light-bg .content-privacy .content-faq {
+    padding-top: 3rem;
+    width: 87%;
+    margin: 0 auto;
+}
+.login-page .circle-slide img {width: 355px;}
+.content-404.aos-init.aos-animate {
+    margin-bottom: 3rem;
+}
+.privacy-main .content-404 .left-404 img {
+    width: 60%;
+}
+
+.right-404 {
+    padding-top: 3rem;
+    padding-right: 1rem;
+}
+.inner-get-kundli {
+    margin: 4rem auto;
+}
+
+.service-card-header-box {
+    width: 53%;
+}
+
+.service-card-box .card-sec {
+    grid-column-gap: 10px;
+    grid-row-gap: 27px;
+}
+.contact-info {
+    width: 219px;
+}
+.contact-info h3 {
+    width: 220px;
+}
+}
+
+@media (max-width:1062px){
+    .login-page .circle-slide img {
+    width: 345px;
+}
+}
+
+@media (max-width:1024px){
+    .jodiac-sec .circle-center img {
+    margin-left: 25px;
+}
+    .right-point {
+    margin-left: -3rem;
+}
+    .main-banner .your-class ul.slick-dots {
+    bottom: 18px;
+}
+
+.main-banner .circle-img img {
+    left: -220px;
+}
+.banner-content img {
+    width: 65px;
+}
+.banner-content h1 {
+    font-size: 30px;
+}
+.main-banner .banner-btn {
+    margin-top: 32px;
+}
+.content-get-kundali .birth-box p {
+    font-size: 14px;
+    width: 136px;
+}
+.privacy-main .content-privacy {
+    padding: 20px 33px;
+}
+
+.privacy-content h1 {
+    font-size: 36px;
+    padding: 2.5rem 0rem 0;
+}
+.image-bg .light-bg .content-privacy .content-faq {
+    padding-top: 3rem;
+    width: 87%;
+    margin: 0 auto;
+}
+.content-faq .accordion-button{font-size: 17px;}
+.login-page .circle-slide img {
+    width: 335px;
+}
+.service-card-header-box {
+    width: 55%;
+}
+
+.welcome-back .login-boxx a {
+    line-height: 1.5;
+}
+
+
+}
+@media (max-width:990px){
+    .main-banner .circle-img img{       
+    display: none;
+    }
+    .logo_ham {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo_ham a {
+    border-bottom: 0;
+}
+    .content-privacy, .content-404, .content-daily-horoscope {
+    padding-top: 0px;
+/*    margin-bottom: 20px;*/
+}
+    .privacy-content.aos-init.aos-animate {
+    padding: 0 0px;
+}
+    .privacy-main .content-privacy {
+    padding: 25px 0px;
+}
+.image-bg .light-bg .content-privacy .content-faq {
+    width: 100%;
+}
+    .select-booking .select-person img {
+    width: 130px;
+}
+.select-booking .select-person {
+    padding-top: 25px;
+    width: 150px;
+}
+    .service-page .service-bg-sec .service-box.container {
+    padding: 0 0px;
+}
+.service-card-header-box {
+    width: 64.7%;
+}
+    .banner-main-sec .about-main-content .row {
+    padding: 0px 0px;
+}
+
+.about-main-content .bg-red-box {
+    height: 286px;
+    width: 260px;
+}
+.jodiac-sec .circle-center img {
+    margin-left: 51px;
+        width: 91%;
+}
+.desk-zodiac {
+    margin-left: -69px;
+}
+.privacy-content h1 {
+    font-size: 32px;
+    padding: 2rem 0rem 0;
+    margin-bottom: 0.3rem;
+}
+
+.privacy-content strong {
+    font-size: 22px;
+}
+
+.about-main-content .bg-red-box {
+    height: 217px;
+    width: 218px;
+    left: -17px;
+    top: 92px;
+}
+.about-content p {
+    font-size: 14px;
+    line-height: 1.1;
+}
+.about-but .left-but{
+    width: 138px;
+    height: 40px;
+}
+.about-but .left-but:before{
+    width: 147px;
+    height: 48px;
+}
+.right-but .num p {
+    font-size: 10px;
+}
+.right-but .num span {
+    font-size: 15px;
+}
+.about-but .right-but{
+    height: 40px;
+    width: 146px;
+}
+.right-but .phone i {
+    font-size: 15px;
+}
+.right-but .phone {
+    width: 28px;
+    height: 21px;
+    top: 10px;
+    left: 7px;
+    margin-right: 14px;
+}
+.right-but .phone:before {
+    content: '';
+    position: absolute;
+    width: 30px;
+    height: 30.5px;
+}
+.about-but .right-but:before{
+    width: 154px;
+    height: 48px;
+}
+.choose-counter-sec .cont-flex {
+    width: 100%;
+    height: 138px;
+}
+.choose-counter-sec .counters h3 {
+    font-size: 18px;
+}
+.choose-counter-sec .cho-head h2{
+    font-size: 26px;
+    width: 183px;
+}
+.choose-counter-sec .cho-head h2:before{
+    top: 37px;
+    width: 183px;
+}
+.customer-sec {
+    padding: 3rem 0 7rem 0;
+}
+.banner-main-sec .about-main-content{
+    padding: 4rem 0 4rem 0;
+}
+.choose-counter-sec {
+    padding: 4rem 0 2rem 0;
+}
+.customer-sec .customer-head h2:before {
+    left: 31%;
+}
+.customer-sec .customer-head h2:after {
+    left: 31%;
+}
+.customer-sec .customer-head {
+    margin-bottom: 30px;
+}
+.customer-slider .customer-box p {
+    font-size: 14px;
+    padding: 0 20px;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow{
+    top: 196px;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow{
+    top: 196px;
+}
+.sign-up-sec .sign-head h2 {
+    font-size: 24px;
+    margin-top: 21px;
+}
+.sign-up-sec .sign-text p {
+    font-size: 13px;
+    margin-top: 18px;
+}
+.sign-up-sec .bg-sign {
+    width: 100%;
+}
+.sign-up-sec .male-box form {
+    width: 258px;
+}
+.sign-up-sec {
+    padding: 3rem 0;
+}
+.service-card-header h2 {
+    font-size: 24px;
+    width: 420px;
+}
+.service-card-header {
+    margin-top: 45px;
+    padding-bottom: 5px;
+}
+.service-card-header h2:before {
+    bottom: -24px;
+}
+.service-card-header-box {
+    width: 64.7%;
+}
+.service-card-box .card-sec {
+    grid-column-gap: 9px;
+    grid-row-gap: 25px;
+}
+.service-card-box .card-sec{
+    grid-template-columns: repeat(4,1fr);
+}
+.service-card-grid .card-circle img {
+    width: 85px;
+}
+.card-box .astral-img {
+    right: 24px;
+    bottom: 25px;
+}
+.service-card-grid .card-box {
+/*    width: 146px;
+    height: 224px;*/
+    padding: 0 5px;
+}
+.service-card-grid .card-header h4 {
+    font-size: 14px;
+}
+.service-benner .banner-title h3 {
+    font-size: 16px;
+}
+.categories-sec .cate-left .search {
+    height: 35px;
+    width: 154px;
+}
+.categories-sec .cate-left li {
+    font-size: 13px;
+}
+.categories-sec .information li.amount span {
+    font-size: 16px;
+}
+.method .payment-but {
+    width: 80%;
+}
+.content-faq .accordion-button {
+    font-size: 16px;
+}
+.content-faq .accordion-button{
+    line-height: 18px;
+}
+.privacy-main, .light-bg{
+    margin-bottom: 0rem;
+}
+.content-contactus {
+    padding: 3rem 0;
+}
+.contact-call-icon i {
+    font-size: 13px;
+    width: 25px;
+    height: 26px;
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.contact-call-icon:before{
+    width: 33px;
+    height: 35px
+}
+.contactus-left {
+    width: 100%;
+}
+.contact-call-text a {
+    font-size: 9px;
+}
+.contact-details {
+    margin-right: 2px;
+}
+.customer-sec .customer-head h2 {
+    margin-top: 20px;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 20px;
+}
+.privacy-content h1 {
+    font-size: 26px;
+}
+.privacy-content strong {
+    font-size: 20px;
+}
+.privacy-heading {
+    width: 100%;
+}
+.orange-button a {
+    font-size: 18px;
+}
+.orange-button {
+    height: 65px;
+    width: 178px;
+    line-height: 62px;
+}
+.right-404 {
+    padding-top: 2rem;
+}
+.right-404 p {
+    padding: 7px 0;
+    margin-bottom: 7px;
+}
+.right-404 strong {
+    font-size: 28px;
+}
+.content-thank p {
+    font-size: 17px;
+    padding: 15px 0;
+    margin-bottom: 2px;
+
+}
+.content-thank h1 {
+    font-size: 36px;
+}
+.content-thank .check-thank i.fa.fa-check {
+    font-size: 50px;
+}
+.content-thank .orange-button a {
+    font-size: 18px;
+}
+.content-thank .orange-button {
+    height: 66px;
+    width: 178px;
+    line-height: 64px;
+}
+.login-page .circle-slide img {
+    width: 242px;
+}
+.welcome-back h4 {
+    margin-bottom: 18px;
+}
+.login-page .input-box {
+    width: 95%;
+    margin-bottom: 15px;
+    height: 48px;
+}
+.login-page .login-box .login-boxx {
+    width: 95%;
+    margin-bottom: 15px;   
+    height: 48px;
+}
+.login-box .chckckeds p {
+    font-size: 11px;
+}
+.welcome-back .containue-btn a.btns {
+    padding: 10px 23px;
+}
+
+.login-page .welcome-back img {
+    width: 110px;
+}
+.containue-btn p {
+    padding-top: 20px;
+    font-size: 14px;
+}
+.circle-slide ul.slick-dots {
+    bottom: -50px;
+}
+.login-page .circle-slide .slick-dots li {
+    width: 8px;
+}
+.login-page .circle-slide .slick-dots li button:before {
+    font-size: 14px;
+}
+.containue-btn {
+    padding-top: 22px;
+}
+.login-box .detail-box {
+    margin-bottom: 17px;
+    width: 100%;
+}
+.login-box .detail-box .login-box input::placeholder {
+    font-size: 13px;
+}
+.login-box .detail-box .login-box {
+    width: 47%;
+    height: 46px;
+    padding-left: 9px;
+}
+.bannerr-content .about-main-content.main-login {
+    padding-top: 6rem;
+}
+
+/*.about-banner {
+    height: 380px;
+}
+.banner-main-sec .about-main-content {
+    margin-top: -264px;
+}*/
+
+.content-get-kundali .inner-get-kundli h3 {
+    font-size: 20px;
+}
+.content-get-kundali .birth-details {
+    width: 100%;
+}
+.content-get-kundali .birth-box {
+    width: 95%;
+    height: 32px;
+    margin: 0.7rem auto;
+
+}
+.content-daily-horoscope .main-menu:hover, nav.main-menu.expanded {
+    width: 218px;
+}
+.content-daily-horoscope .main-menu li.bar-sidemenu {
+    margin-bottom: 25px;
+}
+.content-get-kundali .birth-box p {
+    font-size: 13px;
+}
+.content-get-kundali .birth-top .birth-details {
+    height: 349px;
+}
+.content-get-kundali .birth-bottom .birth-details {
+    height: 265px;
+}
+.content-get-kundali .birth-right .birth-details {
+    height: 680px;
+}
+.side-daily-menu img {
+    width: 22px;
+}
+.content-get-kundali .birth-box p {
+    width: 120px;
+}
+.daily-heading {
+    margin-top: 30px;
+}
+.daily-heading h3 {
+    font-size: 22px;
+    margin-top: 15px;
+}
+.content-daily-horoscope .main-menu .nav-text {
+    font-size: 11px;
+}
+.Prediction-content {
+    padding: 11px 12px;
+}
+.Prediction-box {
+    margin: 2rem 0px;
+}
+.dailyhoro-inner {
+    width: 75%;
+}
+.dailyhoro-inner {
+    margin: 0 auto 4rem auto;
+}
+.panchang-box {
+    padding: 2rem;
+}
+.panchang-detail {
+    margin-left: -25px;
+}
+.panchang-top {
+    margin-bottom: 2rem;
+}
+.panchang-detail p {
+    font-size: 15px;
+}
+.panchang-left {
+    padding: 3rem 1rem;
+}
+.content-panchang h3 {
+    font-size: 22px;
+}
+.panchang-data strong {
+    font-size: 19px;
+}
+.panchang-data p {
+    padding: 3px 0;
+    font-size: 14px;
+}
+.panchang-detail span {
+    font-size: 11px;
+}
+.content-panchang {
+    margin: 3rem auto;
+}
+.content-panchang-1 {
+    margin-bottom: 0rem;
+}
+.content-panchang-1 {
+    width: 65%;
+    padding: 3rem 0;    
+}
+.content-panchang-1 select.selectpicker {
+    height: 45px;
+}
+.timebox-date select {
+    height: 45px;
+}
+.content-panchang-1 .panchang-timebox input {
+    height: 45px;
+}
+.timebox-place input {
+    height: 45px;
+}
+.panchang-placebox {
+    margin: 2rem 0;
+}
+.content-panchang-1 .kundli-sec.select-box.language-box {
+    padding: 2rem 0;
+}
+.content-daily-horoscope .select-box-pan i.fa.fa-caret-left {
+    top: 0px;
+}
+.content-panchang-1 .kundli-sec p {
+    font-size: 15px;
+}
+.content-daily-horoscope .timebox-date p {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.timebox-date select {
+    font-size: 15px;
+}
+.content-panchang-1 .panchang-timebox input::placeholder {
+    font-size: 15px;
+}
+.panchang-placebox .timebox-place p {
+    margin-bottom: 5px;
+    font-size: 15px;
+}
+.panch-showbut a {
+    padding: 12px 7px;
+    font-size: 14px;
+}
+.lable-24 {
+    height: 45px;
+    line-height: 41px;
+}
+.panchang-timebox .lable-24 label {
+    font-size: 15px;
+}
+.timebox-place input::placeholder {
+    font-size: 15px;
+}
+.western-numerology .panch-showbut a {
+    padding: 12px 10px;
+}
+.western-numerology .panch-showbut {
+    margin-top: 2rem;
+}
+.content-numerology .panchang-placebox {
+    margin-top: 1rem;
+}
+.redical-data, .destiny-data, .name-data {
+    width: 110px;
+    height: 110px;
+}
+.number-numero strong {
+    font-size: 4rem;
+}
+.data-numerology .num-circle p {
+    font-size: 16px;
+    padding-top: 22px;
+}
+.num-table strong {
+    font-size: 18px;
+}
+.num-table {
+    margin: 3rem 0 1rem 0;
+}
+
+.num-next-but a {
+    font-size: 15px;
+    padding: 11px 36px;
+}
+.num-next-but {
+    margin-bottom: 4rem;
+}
+.top-numerology strong, .bottom-numerology strong {
+    margin-left: 8px;
+    font-size: 18px;
+}
+.content-daily-horoscope .numerology-details .main-menu {
+    height: 861px !important;
+    top: 37%;
+}
+.top-numerology, .bottom-numerology {
+    width: 80%;
+    margin-top: 1rem !important;
+}
+.natal-chart img {
+    margin-bottom: 32px;
+}
+.planetary-top table, .planetary-bottom table {
+    margin: 2rem auto;
+}
+.numerology-details {
+    margin-bottom: 25px;
+}
+.planetary-bottom td {
+    height: 25px;
+}
+.bottom-chart th {
+    height: 35px;
+    padding: 3px;
+}
+.planetary-top td, .planetary-bottom td {
+    height: 35px;
+}
+.main-banner .details-page .detail-but {
+    /*width: 235px;*/
+    height: 60px;
+    margin-bottom: 25px;
+    padding: 0 21px;
+}
+
+.main-banner .slick-dots li button:before {
+    width: 12px;
+    height: 12px;
+}
+
+.banner-content img {
+    width: 60px;
+}
+.banner-content h1 span {
+    font-size: 25px;
+}
+.banner-content h1 {
+    font-size: 25px;
+}
+.banner-content p {
+    padding-top: 2px;
+    line-height: 1.2;
+    font-size: 13px;
+    margin-bottom: -8px;
+}
+
+.main-banner .details-page .detail-but a {
+    font-size: 15px;
+}
+.main-banner .banner-btn .left-but a {
+    width: 100%;
+}
+.main-banner .banner-btn {
+    margin-top: 30px;
+}
+.main-banner .banner-btn .left-but{
+    width: 132px;
+    padding: 5px;
+}
+.main-banner .banner-btn .right-but a {
+    width: 100%;
+    height: 100%;
+}
+.main-banner .banner-btn .left-but {
+    margin-right: 12px;
+}
+.main-banner .right-but {
+    width: 158px;
+    padding: 4px;
+}
+
+.kundli-select h4 {
+    font-size: 20px;
+}
+.kundli-select p {
+    font-size: 17px;
+}
+.kundli-select .select-box p {
+    margin-bottom: 6px;
+    font-size: 15px;   
+    text-align: left;
+}
+.heroscrpe .chek-head h3:after{
+    left: 205px;
+}
+.kundli-select .head {
+    padding-bottom: 25px;
+}
+.kundli-sec .language-box {
+    padding-bottom: 25px;
+}
+.kundli-sec .select-box .hours-format {
+    padding-top: 15px;
+}
+.select-box .birth-palce {
+    padding-top: 25px;
+}
+.kundli-but {
+    padding-top: 27px;
+}
+.kundli-select .select-box select.selectpicker {
+    height: 40px;
+}
+.kundli-select .date-format .format-box select {
+    height: 40px;
+}
+.kundli-sec .select-box .hours-format input{
+    height: 40px;
+}
+.kundli-sec .birth-palce input#lname {
+    height: 40px;
+}
+.kundli-sec .kundli-circle img{
+    top: 260px;
+}
+.yallow-but {
+    width: 122px;
+    height: 34px;
+}
+.heroscrpe .chek-head {
+    padding-bottom: 55px;
+}
+.brown-but{
+    width: 139px;
+    height: 34px;
+}
+.heroscrpe {
+    padding: 1rem 0 5rem 0;
+}
+.left_side_card .innner_content h2 {
+    font-size: 20px;
+}
+.whatwedo-item-inner .left_side_card .innner_content img {
+    width: 80px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+.whatwedo-item-inner{
+    height: 242px;
+}
+.whatwedo-wrapper{
+    height: 269px;
+    align-items: center;
+    text-align: center;
+}
+.calendar-sec .calender-head {
+    width: auto;
+    padding-bottom: 3rem;
+}
+.calendar-sec {
+    padding: 3rem 0;
+}
+.calender-head p {
+    font-size: 15px;
+}
+.calendar-sec .center {
+    font-size: 18px;
+}
+.calendar-sec .Panchang-box h4 {
+    font-size: 18px;
+}
+.calendar-sec .Panchang-box p {
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+.calendar-sec .Panchang-box li a {
+    font-size: 13px;
+}
+.calendar-sec .Panchang-box {
+    padding: 24px 12px;
+}
+.calendar-sec .cont li a {
+    font-size: 13px;
+}
+.calendar-sec .tab-content li {
+    font-size: 13px;
+    line-height: 1.31;
+    padding-left: 18px;
+}
+.calendar-sec .cont ul#myTabs {
+    margin-bottom: 11px;
+}
+.calendar-sec .cont .active a {
+    padding: 2px 5px 4px 6px;
+}
+.calendar-sec li.date{
+padding: 1px 6px 1px 6px; 
+}
+.calendar-sec .cont .active a.active.show {
+    padding: 6px 4px;
+}
+.calendar .pointer img {
+    width: 19px;
+    height: 13px;
+}
+.calendar-sec .calendar .pointer span {
+    width: 29px;
+    height: 23px;
+    padding: 4px 3px;
+    right: 4px;
+}
+.calendar-sec .tab-year .cont, .calendar-sec .Panchang-box, .calendar-sec .calendar {
+    min-height: 430px;
+}
+.calendar-sec .calendar-header .arrow.minusmonth {
+    left: 23px;
+}
+.calendar-sec .calendar-header .addmonth {
+    right: 23px;
+}
+.calendar-sec .calendar-body li, .calendar-days li{
+    font-size: 13px;
+}
+.jodiac-sec {
+    padding: 5rem 0;
+}
+.jodiac-sec .jodic-head h2:before{
+    left: 314px;
+}
+.jodiac-sec .jodic-head h2:after{
+    left: 340px;
+}
+.jodiac-sec .jodic-head {
+    padding-bottom: 45px;
+}
+.jodiac-sec .jodic-head p {
+    font-size: 14px;
+    padding-top: 6px;
+}
+.jodic-head.aos-init.aos-animate h2 {
+    font-size: 22px;
+}
+.jodiac-sec .icon-img img {
+    width: 20px;
+}
+.jodiac-sec .sign-point .icon-img {
+    width: 50px;
+    height: 50px;
+}
+.jodiac-sec .point-date h4 {
+    margin-bottom: 0px;
+    font-size: 16px;
+}
+.jodiac-sec .sign-point {
+    padding-top: 6px;
+}
+.jodiac-sec .point-date p {
+    line-height: 1.1;
+}
+
+.about-astro-sec .about-img:before {
+    width: 303px;
+    height: 440px;
+}
+.about-astro-sec .about-cont p {
+    margin-bottom: 0px;
+    line-height: 15px;
+}
+.team-card .card-name h4 {
+    font-size: 16px;
+}
+.team-card .card-content p {
+    font-size: 13px;
+    line-height: 1.3;
+    padding-top: 3.5rem;
+}
+.team-card .card-name img {
+    bottom: -45px;
+    width: 80px;
+}
+.team-card .card-name {
+    height: 110px;
+}
+.team-card .card-content .card-but {
+    padding: 1px 0 17px 0;
+}
+.special-team-sec .card-content .card-but a {
+    font-size: 12px;
+}
+.special-team-sec .card-icn {
+    padding: 13px 0;
+}
+.special-team-sec .card-icn i {
+    font-size: 16px;
+}
+.special-team-sec .team-card:before {
+    width: 133px;
+    height: 447px;
+    top: -8px;
+}
+.feature-sec .feature-head h2 {
+    font-size: 22px;
+}
+.feature-head img {
+    width: 583px;
+}
+.ask-ques .question h3 {
+    font-size: 14px;
+    height: 58px;
+}
+.ask-ques .question p {
+    font-size: 12px;
+    height: 138px;
+}
+.ask-ques .question h3 {
+    padding-top: 16px;
+    margin-bottom: 0px;
+}
+.feature-sec .amount h4 {
+    padding-top: 0px;
+    margin-bottom: 1px;
+}
+.feature-sec button.slide-arrow.prev-arrow.slick-arrow {
+    top: 186px;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow{
+    top: 186px; 
+}
+.feature-sec {
+    padding: 3rem 0;
+}
+.discover-sec h4 {
+    padding-bottom: 20px;
+}
+.special-team-sec {
+    padding: 4rem 0;
+}
+.special-team-sec .team-head {
+    padding-bottom: 40px;
+}
+.discover-sec {
+    padding: 4rem 0;
+    height: 210px;
+}
+.main-menu .menu ul.card {
+    display: none;
+}
+.main-menu ul.soc-link{
+    display: none;
+}
+.main-menu .menu-pages ul.page-link {
+    height: 45px;
+    width: 100%;
+}
+.main-menu .top-menu .logo img {
+    width: 80px;
+}
+.main-menu .home-menu .home-icon i {
+    font-size: 16px;
+}
+.home-menu .reach p {
+    font-size: 13px;
+}
+.main-menu .logo-sec .home-menu {
+    padding-left: 22px;
+}
+.login-sec .login-but a {
+    font-size: 12px;
+}
+.menu-pages .page-link li a {
+    width: 65px;
+}
+.main-menu .home-menu .home-icon {
+    width: 30px;
+    height: 30px;
+}
+.footer .footer-link ul i {
+    font-size: 24px;
+}
+.footer-logo img {
+    width: 120px;
+}
+.footer-center h4 {
+    font-size: 22px;
+    padding-bottom: 5px;
+}
+.footer .online-const h4 {
+    font-size: 22px;
+    padding-bottom: 5px;
+}
+.footer-center ul.quick-link {
+    font-size: 14px;
+}
+.main-menu .menu-pages {
+    padding-top: 15px;
+}
+.content-faq.service-faq div#accordionExample {
+    width: 100%;
+}
+.main-banner .swastik-logo img {
+    bottom: 28px;
+    margin-right: 9px;
+}
+}
+@media (max-width:768px){
+ 
+    .kundli-sec .kundli-circle img {
+    top: 260px;
+}
+.jodiac-sec .col-md-1 {
+    display: none;
+}
+.jodiac-sec .circle-center img {
+    margin-left: 45px;
+    width: 90%;
+}
+    .feature-sec .card:hover {
+    display: none;
+}
+    .timebox-date.format-label {
+    width: 131px;
+}
+    .jodiac-sec .point-date {
+    padding-left: 9px;
+}
+    .copy-right {
+    height: 50px;
+}
+  .main-banner .details-page .detail-but a {
+    font-size: 14px;
+}
+.main-banner .details-page .detail-but {
+    width: 90%;
+    height: 55px;
+    margin-bottom: 23px;
+    padding: 0 20px;
+}
+.main-banner .circle-img img {
+    left: -235px;
+}
+.kundli-select .head {
+    padding-bottom: 15px;
+}
+.kundli-sec .language-box {
+    padding-bottom: 15px;
+}
+.kundli-sec .select-box .hours-format {
+    padding-top: 5px;
+}
+.select-box .birth-palce {
+    padding-top: 15px;
+}
+.kundli-but {
+    padding-top: 23px;
+}
+.kundli-select .select-box select.selectpicker {
+    height: 35px;
+}
+.kundli-select .date-format .format-box select {
+    height: 35px;
+}
+.kundli-sec .select-box .hours-format input {
+    height: 35px;
+}
+.kundli-sec .birth-palce input#lname {
+    height: 35px;
+}
+.select-box .language-box .lang-box i {
+    top: 8px;
+    font-size: 20px;
+}
+.feature-sec button.slide-arrow.prev-arrow.slick-arrow {
+    left: -30px;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow {
+    right: -30px;
+}
+.jodiac-sec {
+    padding: 3rem 0;
+}
+.heroscrpe {
+    padding: 1rem 0 3rem 0;
+}
+.about-astro-sec {
+    padding: 4rem 0 4rem 0;
+}
+.feature-sec .featre-btm-sec {
+    padding-top: 40px;
+}
+.contact .mail-box {
+    height: 35px;
+    margin-top: 15px;
+}
+.contact .mail-box i {
+    font-size: 18px;
+}
+.online-const ul.online{
+width:100%;
+font-size:12px;
+line-height:2;
+}
+.discover-sec .cal-sec ul {
+    font-size: 18px;
+}
+
+.top-scroll #return-to-top {
+    right: 16px;
+    width: 35px;
+    height: 35px;
+}
+.top-scroll #return-to-top i{
+    font-size: 18px;
+}
+
+.top-scroll #return-to-top::before {
+    width: 45px;
+    height: 45px;
+}
+.top-scroll #return-to-top i{
+    left: 8px;
+    top: 8px;
+}
+.footer {
+    padding: 2rem 2rem;
+}
+.content-daily-horoscope .main-menu li.bar-sidemenu {
+    margin-bottom: 10px;
+}
+.planetary-top td, .planetary-bottom td {
+    height: 30px;
+    font-size: 14px;
+}
+.content-daily-horoscope .numerology-details .main-menu {
+    height: 834px !important;
+    top: 34%;
+}
+.planetary-top img {
+    width: 14px;
+}
+.planetary-bottom img {
+    width: 14px;
+}
+.number-numero strong {
+    font-size: 3rem;
+}
+.redical-data, .destiny-data, .name-data {
+    width: 95px;
+    height: 95px;
+}
+.numero-table td.no-border-right {
+    padding-left: 4rem;
+}
+.login-page .circle-slide img {
+    width: 230px;
+}
+.login-page .circle-slide .slick-dots li button:before {
+    font-size: 12px;
+}
+
+.right-404 {
+    padding-top: 0rem;
+    padding-right: 4rem;
+}
+.right-404 h1 {
+    font-size: 95px;
+    margin-bottom: 0px;
+}
+.right-404 p {
+    padding: 4px 0;
+    margin-bottom: 6px;
+}
+.orange-button a {
+    font-size: 16px;
+    padding: 11px 13px;
+}
+.orange-button {
+    height: 54px;
+    width: 134px;
+    line-height: 52px;
+}
+.privacy-content.aos-init.aos-animate {
+    padding: 0 10px;
+}
+.privacy-heading {
+    width: 96%;
+}
+.contactus-right {
+    margin-top: -94%;
+}
+.contactus-left{
+    padding: 2rem;
+}
+.categories-sec .cate-left .search {
+    height: 35px;
+    width: 100%;
+}
+.select-booking .select-person img {
+    width: 100px;
+}
+.select-booking .select-person p {
+    font-size: 14px;
+    padding-top: 12px;
+}
+.select-booking .select-person {
+    padding-top: 20px;
+    width: 100px;
+}
+.method .payment-but {
+    width: 95%;
+}
+.customer-sec {
+    padding: 2rem 0 7rem 0;
+}
+.content-faq.service-faq {
+    padding: 3rem 0;
+}
+.content-faq.service-faq div#accordionExample {
+    width: 100%;
+}
+.content-faq.service-faq .accordion-button {
+    height: 50px;
+}
+.categories-sec {
+    width: 100%;
+}
+.service-card-box {
+    width: 100%;
+}
+.service-card-header-box {
+width: 61%;
+}
+.about-main-content .bg-red-box {
+    height: 239px;
+    width: 238px;
+    left: -16px;
+    top: 101px;
+}
+.banner-main-sec .about-main-content .row {
+    padding: 0px 17px;
+}
+.about-but .left-but:before {
+    width: 147px;
+    height: 49px;
+}
+.about-but .right-but:before {
+    width: 155px;
+    height: 48px;
+}
+
+
+
+
+.whatwedo-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+}
+.whatwedo-item {
+    position: inherit;
+}
+.whatwedo-wrapper{
+    height: auto;
+}
+.whatwedo-item{
+        width: 100%;
+}
+.whatwedo-item:nth-child(1) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(2) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(3) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(4) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(5) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(6) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(7) {
+    left: 0%;
+}
+.whatwedo-item:nth-child(8) {
+    left: 0%;
+}
+.whatwedo-item {
+    margin-bottom: 1.5rem;
+}
+.whatwedo-item.active{
+    width: 62%;
+}
+.right_side_card .inner_content img {
+    width: 68px;
+}
+.right_side_card .inner_content h3{
+        font-size: 14px;
+}
+.card_inner_slider .inner_content.slick-slide.slick-current.slick-active {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.whatwedo-item .right_side_card button.slide-arrow.next-arrow.slick-arrow{
+    bottom: 15px;
+    right: 86px;
+}
+.whatwedo-item .right_side_card button.slide-arrow.prev-arrow.slick-arrow{
+        right: 122px;
+    bottom: 16px;
+}
+}
+
+@media (max-width:767px){
+    
+    .main-banner {
+    padding-top:6rem;
+    height: 786px;
+}
+
+    .main-banner .details-page {
+    height:39%;
+        left: 27px;
+}
+.main-banner .your-class ul.slick-dots {
+       bottom: 16px;
+}
+.hemant-cont .banner-content{
+    margin-top: 40px;
+
+}
+.kundli-sec .type-face{
+        margin-top: 30px;
+}
+.heroscrpe .chek-head h3:after {
+    left: 114px;
+}
+.calendar-sec .tab-year .cont, .calendar-sec .Panchang-box, .calendar-sec .calendar {
+    min-height: 320px;
+    margin-bottom: 23px;
+}
+.jodiac-sec .jodic-head h2:before {
+    left: 224px;
+}
+.jodiac-sec .jodic-head h2:after{
+    left: 250px;
+}
+.about-astro-sec .about-img img {
+    width: 70%;
+}
+.about-astro-sec .about-img:before {
+    width: 338px;
+    height: 472px;
+}
+.about-cont {
+    margin-top: 30px;
+}
+.calendar-sec .calendar-body li, .calendar-days li {
+    font-size: 14px;
+}
+.jodiac-sec .jodic-head p {
+    font-size: 14px;
+    padding-top: 6px;
+    width: auto;
+}
+.calendar-sec .tab-content li {
+    font-size: 14px;
+    line-height: 1.41;
+    padding-left: 18px;
+}
+.about-astro-sec .about-cont p {
+    line-height: 19px;
+}
+.kundli-sec .kundli-circle img {
+    top: 260px;
+    display: none;
+}
+.special-team-sec .slick-slide{
+    height: auto;
+}
+.feature-head img {
+    width: 509px;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 233px;
+}
+.feature-sec button.slide-arrow.prev-arrow.slick-arrow{
+     top: 233px;
+}
+/*code*/
+ 
+
+    .main-banner .banner-btn {
+    margin-top: 35px;
+}
+.mb-detail.details-page {
+    bottom: 75px;
+    height: 30%;
+}
+    .banner-content h1 {
+    padding-top: 12px;
+}
+    .mb-detail.details-page{
+            bottom: 98px;
+    }
+            .main-banner .swastik-logo {
+    display: none;
+}
+.main-banner .your-class ul.slick-dots {
+    display: none !important;
+}
+    .select-box .language-box .lang-box {
+    margin: 0;
+    }
+    
+    .orange-button {
+    margin-bottom: 30px;
+}
+    .left-404, .right-404 {
+    margin-top: 3rem;
+}
+.welcome-back {
+    margin-top: 70px;
+}
+    .feature-sec .social-icon li {
+    width: 35px;
+    height: 35px;
+    }
+    .team-slider .slick-dots {
+    bottom: 100px;
+}
+        .kundli-circle{display: none;}
+    .whatwedo-wrapper {
+    display: none;
+}
+
+.contact-input input {
+    width: 100%;
+}
+.contact-input textarea {
+    width: 100%;
+}
+.horoscope_1 {
+    display: block;
+    margin: 0 17px;
+}
+
+
+.horoscope_1 .panel-default>.panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.horoscope_1 .panel-default>.panel-heading a {
+  display: block;
+  padding: 10px 5px;
+  font-size: 18px;
+  color: black;
+}
+
+.horoscope_1 .panel-body {
+    margin: 10px 3px;
+}
+.horoscope_1 h4.panel-title {
+    border-bottom: 1px solid gray;
+}
+
+.horoscope_1 .panel-default>.panel-heading a:after {
+  content: "";
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  transition: transform .25s linear;
+  -webkit-transition: -webkit-transform .25s linear;
+}
+
+.horoscope_1 .panel-default>.panel-heading a[aria-expanded="true"]:after {
+  content: "\2212";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.horoscope_1 .panel-default>.panel-heading a[aria-expanded="false"]:after {
+  content: "\002b";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+      font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+    .main-banner .your-class ul.slick-dots {
+    bottom: -4px;
+}
+.main-banner .slick-dots li button:before {
+    margin-left: -5px;
+}
+    .main-banner .details-page .detail-but{    margin-top: 30px;}
+    .main-banner .circle-img img {
+    left: -248px;
+}
+.main-banner .swastik-logo img {
+    width: 65px;
+    margin: auto;
+}
+.main-banner .slick-dots li button:before {
+    width: 10px;
+    height: 10px;
+}
+.circle-img {
+    display: none;
+}
+.kundli-sec .kundli-circle img {
+    width: 55%;
+    position: inherit;
+    margin: 20px 0 0 95px;
+}
+.ask-ques .question p {
+    height: 115px;
+}
+/*.slick-list.draggable {
+    width: 60%;
+    margin: auto;
+}*/
+.ask-ques .question p {
+    font-size: 14px;
+    height: 98px;
+    margin-top: 10px;
+}
+.ask-ques .question h3 {
+    padding-top: 14px;
+    margin-bottom: -25px;
+    font-size: 15px;
+}
+.ask-ques .question img {
+    padding-top: 10px;
+}
+.feature-sec .question .ask-pare {
+    min-height: 135px;
+}
+.card {
+    padding: 11px 10px;
+}
+.feature-head {
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.feature-sec {
+    padding: 1rem 0 4rem 0;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 220px;
+    right: 30px;
+    display: none !important;
+}
+.feature-sec button.slide-arrow.prev-arrow.slick-arrow{
+    top: 220px;
+    left: 30px;
+    display: none !important;
+}
+.jodic-head.aos-init.aos-animate h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.calendar-sec .tab-content li {
+    line-height: 1.5;
+    padding-left: 22px;
+}
+.calendar-sec .tab-year .cont, .calendar-sec .Panchang-box, .calendar-sec .calendar {
+    min-height: 230px;
+}
+.calendar-sec .calender-head h2 {
+    font-size: 20px;
+}
+.calendar-sec .calender-head p {
+    font-size: 14px;
+}
+.calendar-sec .center {
+    font-size: 16px;
+}
+.calendar-sec {
+    padding: 2rem 0;
+}
+
+.jodiac-sec .jodic-head h2:before {
+    left: 194px;
+}
+.jodiac-sec .jodic-head h2:after {
+    left: 220px;
+}
+.jodiac-sec .icon-img img {
+    width: 15px;
+}
+.jodiac-sec .sign-point .icon-img {
+    width: 45px;
+    height: 44px;
+}
+.jodiac-sec .point-date h4 {
+    font-size: 14px;
+}
+.left-point {
+    margin-right: 0rem;
+}
+.right-point {
+    margin-left: 0rem;
+}
+.jodiac-sec .circle-center img {
+    margin-left: 46px;
+    width: 80%;
+}
+.about-astro-sec .about-head h4 {
+    font-size: 20px;
+}
+.about-astro-sec .about-head h4:before {
+    width: 207px;
+}
+.about-astro-sec .about-head h4 {
+    width: 207px;
+}
+
+.about-astro-sec .about-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.about-astro-sec .about-img:before {
+
+    left: 111px;
+    top: -12px;
+}
+.about-astro-sec .about-head {
+    padding-bottom: 40px;
+}
+.about-astro-sec {
+    padding: 2.5rem 0 2.5rem 0;
+}
+.about-astro-sec .about-cont p {
+    line-height: 17px;
+}
+.special-team-sec {
+    padding: 2.5rem 0;
+    height: 577px;
+}
+.special-team-sec .team-head h3 {
+    font-size: 20px;
+}
+.special-team-sec .team-head img {
+    width: 153px;
+}
+.special-team-sec .team-head p {
+    font-size: 15px;
+    width: auto;
+}
+
+.team-card.aos-init.aos-animate {
+    width: 70%;
+    margin: 0 auto 35px auto;
+}
+.special-team-sec .team-card:before {
+    width: 94%;
+    top: -8px;  
+    height: 365px;
+    display: none;
+}
+.special-team-sec .team-card{
+    margin:27px auto 0 auto;  
+    width: 95%;
+}
+.feature-sec .feature-head h2 {
+    font-size: 20px;
+}
+.feature-head img {
+    width: 460px;
+}
+.discover-sec h4{
+    padding-bottom: 15px;
+}
+.discover-sec .cal-sec ul {
+    font-size: 13px;
+}
+.discover-sec {
+    padding: 2.56rem 0;
+    height: 150px;
+}
+.sign-up-sec .sign-head h2 {
+    font-size: 18px;
+    margin-top: 0px;
+}
+.sign-up-sec .sign-text p {
+    font-size: 12px;
+    margin-top: -111px;
+    margin-bottom: -23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign-up-sec .male-box input#email {
+    padding-left: 15px;
+}
+.jodiac-sec .jodic-head p {
+    width: auto;
+}
+.sign-up-sec .right-sec {
+    padding: 15px 0px;
+}
+.footer .online-const h4 {
+    font-size: 20px;
+    padding-bottom: 2px;
+}
+.footer .online-const .contact h4 {
+    font-size: 20px;
+}
+.data-numerology {
+    width: 70%;
+    margin: 3rem auto 3rem auto;
+}
+.number-numero strong {
+    font-size: 2.5rem;
+}
+.redical-data, .destiny-data, .name-data {
+    width: 80px;
+    height: 80px;
+}
+.redical-data, .destiny-data, .name-data{
+    padding-bottom: 5px;
+}
+.data-numerology .num-circle p {
+    font-size: 14px;
+    padding-top: 20px;
+    text-align: left;
+}
+.content-privacy, .content-404, .content-daily-horoscope {
+    padding: 0;
+}
+
+.num-next-but {
+    margin-bottom: 0rem;
+    padding-bottom: 3rem;
+}
+.numero-table td.no-border-right {
+    padding-left: 1rem;
+}
+.content-panchang-1 {
+    width: 100%;
+    padding: 3rem 0 3.35rem 0;
+}
+.content-daily-horoscope .select-box-pan i.fa.fa-caret-left {
+    top: 5px;
+    right: -8px;
+}
+.content-panchang-1 .kundli-sec.select-box.language-box {
+    padding: 1rem 0;
+}
+.content-numerology .panchang-placebox {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+.content-numerology .panchang-timebox {
+    margin-bottom: 3rem;
+}
+.content-numerology .kundli-sec.select-box.language-box i {
+    top: 55px;
+}
+.content-numerology .panch-showbut a {
+    padding: 11px 8px;
+}
+.timebox-place input {
+    margin-bottom: 10px;
+}
+.western-numerology .panchang-timebox {
+    margin-bottom: 1.5rem;
+}
+.western-numerology .panchang-placebox {
+    margin-top: 1rem;
+}
+.timebox-date select {
+    width: 135px;
+}
+.timebox-date.format-label {
+    width: 133px;
+}
+.timebox-date.format-label {
+    width: 135px;
+}
+.lable-24 {
+    width: 135px;
+}
+.western-numerology .panch-showbut a {
+    padding: 10px 10px;
+}
+.main-menu .menu-pages {
+    display: none;
+}
+.panchang-detail {
+    margin-left: 0px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;    
+}
+.panchang-detail {
+    border-bottom: 1px solid #87378B;
+    border-right: none;
+}
+
+.panchang-top {
+    height: 40px;
+    margin-bottom: 1rem;
+}
+.panchang-left {
+    padding: 2rem 0rem;
+    border-right: none;
+    border-bottom: 1px solid #87378B;
+}
+.panchang-box {
+    padding: 2rem 3rem 0rem 3rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.panchang-data.aos-init.aos-animate {
+    width: 80%;
+    margin: 0 auto;
+}
+.daily-heading h3 {
+    font-size: 20px;
+}
+.Prediction-heading h3 {
+    font-size: 20px;
+}
+.Prediction-box {
+    margin: 1rem 0px;
+}
+.copy-right {
+    height: 45px;
+}
+.footer-center h4 {
+    font-size: 20px;
+}
+.content-get-kundali .inner-get-kundli h3 {
+    margin-top: 25px;
+}
+.content-get-kundali .birth-right .birth-details {
+    height: 642px;
+}
+.inner-get-kundli {
+    margin: 5rem auto 3rem auto;
+    width: 70%;
+}
+.content-panchang {
+    margin: 3rem auto 3rem auto;
+}
+.content-daily-horoscope .main-menu {
+    height: 626px;
+    width: 47px;
+}
+.content-daily-horoscope i.fa {
+    width: 46px;
+    height: 40px;
+    font-size: 28px;
+    height: 39px !important;
+}
+.side-daily-menu img {
+    width: 20px;
+    margin-left: 13px;
+}
+.bannerr-content .about-main-content.main-login {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+.login-page .input-box {
+    width: 100%;
+    height: 45px;
+}
+.login-page .login-box .login-boxx {
+    width: 100%;
+    height: 45px;
+}
+.welcome-back .login-boxx input {
+    width: 50%;
+    font-size: 15px;
+}
+.welcome-back h4 {
+    font-size: 22px;
+}
+.welcome-back.aos-init.aos-animate {
+    margin-top: 65px;
+}
+.login-page .circle-slide img {
+    margin: auto;
+}
+
+.content-thank h1 {
+    font-size: 30px;
+}
+.content-thank {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+.content-thank p {
+    font-size: 15px;
+}
+.content-thank .orange-button a {  
+    font-size: 16px;
+    padding: 10px 17px;
+}
+.content-thank .orange-button {
+    height: 54px;
+    width: 142px;
+    line-height: 51px;
+}
+.right-404 {
+    padding-top: 0rem;
+    padding-right: 0rem;
+}
+.right-404 {
+    margin-top: 1rem;
+}
+.privacy-content h1 {
+    font-size: 24px;
+}
+.privacy-content strong {
+    font-size: 18px;
+}
+.privacy-content p {
+    font-size: 14px;
+    padding: 10px 0;
+}
+.privacy-content.aos-init.aos-animate {
+    padding: 0;
+}
+.image-bg .privacy-main.light-bg .privacy-heading {
+    margin-top: 5rem;
+    width: 100%;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 18px;
+}
+.privacy-main .privacy-heading p {
+    font-size: 14px;
+}
+.privacy-main .content-privacy {
+   padding: 18px 0px 18px 0px;
+}
+.privacy-content ul li {
+    font-size: 14px;
+}
+.content-faq .accordion-button {
+    font-size: 15px;
+}
+
+.privacy-main, .light-bg {
+    width: 100%;
+}
+.image-bg .light-bg .content-privacy .content-faq {
+    padding-top: 1rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.image-bg:after{
+    height: 67%;
+}
+.customer-sec {
+    padding: 0.5rem 0 5rem 0;
+}
+.customer-sec .customer-head h2:before {
+    left: 25%;
+    width: 49%;
+}
+.customer-sec .customer-head h2:after {
+    left: 25%;
+    width: 49%;
+}
+.customer-sec .customer-head h2 {
+    font-size: 22px;
+}
+.customer-head p {
+    font-size: 14px;
+}
+.customer-sec .slick-dots li button:before{
+    width: 10px;
+    height: 10px;
+}
+.slick-dotted.slick-slider {
+    margin-top: 32px;
+}
+.kundli-sec {
+    padding: 3rem 0;
+}
+.customer-box .cus-img img {
+    width: 38%;
+}
+.customer-box .cus-img {
+    bottom: 49px;
+        margin-top:0px;
+}
+.customer-sec .customer-head {
+    margin-bottom: 10px;
+}
+.customer-slider .customer-box {
+    padding: 0px 0 25px 0;
+    margin: 20px auto 0 auto;
+    width: 100%;
+}
+.sign-up-sec {
+    padding: 2rem 0 3.5rem 0;
+}
+.form-contactus form {
+    width: 100%;
+    left: 0px;
+}
+.contactus-right {
+    margin-top: 40px;
+}
+.form-contactus{
+    border: none;
+    width: 100%;
+}
+.contactus-left {
+    width: 94%;
+}
+.contact-call-icon i {
+    font-size: 13px;
+    width: 30px;
+    height: 30px;
+}
+.contact-call-icon:before {
+    width: 38px;
+    height: 38px;
+}
+.content-contactus {
+    padding: 2rem 0 1rem 0;
+}
+.contact-call-text a {
+    font-size: 10px;
+}
+.contact-call-text {
+    padding-top: 5px;
+}
+.contactus-left {
+    padding: 3rem;
+}
+.search button.searchButton {
+    width: 117px;
+}
+.banner-title {
+    width: 100%;
+}
+.categories-sec {
+    padding: 3rem 0;
+}
+.categories-sec .information ul {
+    width: 100%;
+}
+.categories-sec .select .selet-images {
+    grid-template-columns: repeat(2, 1fr);
+}
+.select-booking .select-person {
+    margin: 0 auto;
+}
+.categories-sec .information .booking-border {
+    border-right: none;
+}
+.categories-sec .information li.amount {
+    border-bottom: 1.5px solid #00000038;
+}
+.service-benner .banner-title h3 {
+    font-size: 15px;
+}
+.banner-title h3 span {
+    font-size: 10px;
+}
+.bannerr-content .service-benner {
+    height: 75%;
+    width: 100%;
+}
+.service-benner .banner-title h3 {
+    font-size: 15px;
+}
+.categories-sec h3.left-head {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 244px;
+    left: 90%;
+    display: none !important;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow {
+        top: 240px;
+    left: -6%;;
+       display: none !important;
+}
+.content-faq.service-faq .accordion-button::after {
+    right: 14px;
+    top: 16px;
+}
+.customer-sec ul.slick-dots {
+    bottom: -44px;
+}
+.categories-sec h4.info {
+    font-size: 21px;
+}
+.content-faq.service-faq {
+    padding: 1rem 0;
+}
+.about-main-content .bg-red-box {
+    height: 293px;
+    width: 291px;
+    left: 78px;
+    top: 115px;
+}
+.about-content .head {
+    margin-top: 45px;
+}
+.about-content p {
+    line-height: unset;
+}
+.about-but .left-but:before {
+    width: 169px;
+    height: 52px;
+}
+.right-but .num p {
+    font-size: 11px;
+    line-height: 1;
+}
+.about-but .right-but:before {
+    width: 179px;
+    height: 52px;
+}
+.about-but .left-but{
+    margin-left: 4px;
+}
+.about-but .right-but {
+    height: 44px;
+    width: 170px;   
+}
+.about-but .left-but {
+    height: 44px;
+    width: 159px;
+}
+.choose-counter-sec .cont-flex {
+    width: 50%;
+    height: 236px;
+}
+.choose-counter-sec .choose-box {
+    padding-bottom: 25px;
+}
+.cho-head {
+    margin-bottom: 35px;
+}
+.choose-counter-sec .cho-head h2 {
+    font-size: 24px;
+    width: 169px;
+}
+.choose-counter-sec .cho-head h2:before {
+    width: 169px;
+}
+.choose-counter-sec {
+    padding: 3rem 0 1rem 0;
+}
+.choose-counter-sec .choose-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-main-sec .about-main-content {
+    padding: 3rem 0 3rem 0;
+}
+.banner-main-sec .about-main-content {
+    width: 100%;
+}
+.about-main-content .clock-img img {
+    width: 80%;
+}
+.banner-main-sec .about-main-content .row {
+    padding: 0px 10px;
+}
+.about-main-content .clock-img img {
+    width: 60%;
+}
+.about-main-content .clock-img {
+    text-align: center;
+}
+.footer {
+    padding: 2rem 0rem;
+}
+
+.slick-dots li {
+    width: 15px;
+}
+.service-card-box .card-sec {
+    grid-template-columns: repeat(2,1fr);
+    margin: 0 29px;
+}
+.service-bg-sec .service-header h2 {
+    font-size: 22px;
+}
+.service-card-header h2:before {
+    bottom: -20px;
+    width: 100%;
+}
+.service-card-header-box {
+width: 65%;
+}
+.service-card-header h2 {
+    font-size: 20px;
+    width: 350px;
+}
+.service-card-grid .card-box {
+    width: 100%;
+}
+.service-card-box .card-sec {
+    grid-column-gap: 25px;
+}
+.card-header p {
+    font-size: 11px;
+}
+.service-card-grid .card-header h4 {
+    font-size: 15px;
+}
+.form-contactus:before {
+    border: none;
+}
+.welcome-back .login-boxx a {
+    font-size: 12px;
+}
+.login-box .chckckeds p {
+    font-size: 12px;
+}
+.inner-banner {
+    height: 72%;
+}
+.content-daily-horoscope .numerology-details .main-menu {
+    height: 785px !important;
+    top: 1%;
+}
+.numerology-details {
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 17px;
+    margin-top: 4rem;
+}
+.top-numerology strong, .bottom-numerology strong {
+    margin-left: 4px;
+}
+.natal-chart {
+    margin-bottom: 25px;
+}
+.dailyhoro-inner {
+    margin: 3rem auto 3rem auto;   
+}
+.ask-ques .question {
+    width: 100%;
+}
+
+.privacy-heading {
+    width: 100%;
+    margin-top: 2rem;
+}
+.about-cont {
+    margin-top: 0;
+}
+.whatwedo-item-inner .left_side_card .innner_content img {
+    padding-bottom: 10px;
+}
+.whatwedo-item-inner .festival-card .left_side_card .innner_content img {
+    padding-bottom: 50px;
+}
+.special-team-sec .slick-next {
+    right: 0px;
+}
+.special-team-sec .slick-prev{
+    left: 0px;
+}
+.special-team-sec .slick-next:before {
+    display: none;
+}
+.special-team-sec .slick-prev:before {
+    display: none;
+}
+
+
+/*code1*/
+
+
+}
+
+@media (max-width: 600px){
+    .main-banner {
+    padding-top: 6rem;
+    height: 700px;
+}
+.main-banner .swastik-logo img {
+    bottom: 16%;
+}
+.main-banner .your-class ul.slick-dots {
+    bottom: 63px;
+}
+
+.mb-detail.details-page{
+    bottom:178px;
+    height: 30%;
+}
+    
+.kundli-but {
+    padding-bottom: 16px;
+}
+.top-scroll #return-to-top {
+/*    right: 122px;*/
+    width: 35px;
+    height: 35px;
+}
+.slick-dotted.slick-slider {
+    margin-top: 45px;
+    margin-right: 0px;
+}
+.kundli-sec .kundli-circle img {
+    width: 60%;
+    position: inherit;
+    margin: 20px 0 0 100px;
+}
+.banner-content p {
+    width: 100%;
+}
+.banner-content h1 {
+    font-size: 22px;
+}
+.banner-content h1 span {
+    font-size: 23px;
+}
+.main-banner .details-page .detail-but {
+    /*width: 90%;*/
+    height: 45px;
+    margin-bottom: 20px;
+    padding: 0 20px;
+/*    margin-top: 22px;*/
+}
+.banner-content img {
+    width: 45px;
+}
+
+.main-banner .slick-dots li button:before {
+    width: 12px;
+    height: 13px;
+}
+/*.main-banner .your-class ul.slick-dots {
+    bottom: 20px;
+}*/
+
+.heroscrpe .chek-head h3 {
+    font-size: 20px;
+}
+.heroscrpe .chek-head h3:before {
+    width: 253px;
+}
+.heroscrpe .chek-head h3:after {
+    left: 128px;
+    width: 254px;
+}
+.left_side_card .innner_content h2 {
+    font-size: 16px;
+}
+.heroscrpe .chek-head {
+    padding-bottom: 35px;
+}
+.heroscrpe {
+    padding: 1rem 0 2rem 0;
+}
+.calendar-sec .tab-year .cont, .calendar-sec .Panchang-box, .calendar-sec .calendar{
+    margin-bottom: 15px;
+}
+
+}
+@media (max-width: 480px){
+    .main-banner {
+    height: 645px;
+}
+    .main-banner .banner-btn {
+    margin-top: 35px;
+}
+.mb-detail.details-page {
+    bottom: 75px;
+    height: 30%;
+}
+    .banner-content h1 {
+    padding-top: 12px;
+}
+    .mb-detail.details-page{
+            bottom: 98px;
+    }
+            .main-banner .swastik-logo {
+    display: none;
+}
+.main-banner .your-class ul.slick-dots {
+    display: none !important;
+}
+    .select-box .language-box .lang-box {
+    margin: 0;
+    }
+    
+    .orange-button {
+    margin-bottom: 30px;
+}
+    .left-404, .right-404 {
+    margin-top: 3rem;
+}
+.welcome-back {
+    margin-top: 70px;
+}
+    .feature-sec .social-icon li {
+    width: 35px;
+    height: 35px;
+    }
+    .team-slider .slick-dots {
+    bottom: 100px;
+}
+        .kundli-circle{display: none;}
+    .whatwedo-wrapper {
+    display: none;
+}
+
+.contact-input input {
+    width: 100%;
+}
+.contact-input textarea {
+    width: 100%;
+}
+.horoscope_1 {
+    display: block;
+    margin: 0 17px;
+}
+
+
+.horoscope_1 .panel-default>.panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.horoscope_1 .panel-default>.panel-heading a {
+  display: block;
+  padding: 10px 5px;
+  font-size: 18px;
+  color: black;
+}
+
+.horoscope_1 .panel-body {
+    margin: 10px 3px;
+}
+.horoscope_1 h4.panel-title {
+    border-bottom: 1px solid gray;
+}
+
+.horoscope_1 .panel-default>.panel-heading a:after {
+  content: "";
+  position: relative;
+  top: 1px;
+  display: inline-block;
+  font-family: 'Glyphicons Halflings';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  float: right;
+  transition: transform .25s linear;
+  -webkit-transition: -webkit-transform .25s linear;
+}
+
+.horoscope_1 .panel-default>.panel-heading a[aria-expanded="true"]:after {
+  content: "\2212";
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.horoscope_1 .panel-default>.panel-heading a[aria-expanded="false"]:after {
+  content: "\002b";
+  -webkit-transform: rotate(90deg);
+  transform: rotate(90deg);
+      font-size: 25px;
+    font-weight: bold;
+}
+
+
+
+    .main-banner .your-class ul.slick-dots {
+    bottom: -4px;
+}
+.main-banner .slick-dots li button:before {
+    margin-left: -5px;
+}
+    .main-banner .details-page .detail-but{    margin-top: 30px;}
+    .main-banner .circle-img img {
+    left: -248px;
+}
+.main-banner .swastik-logo img {
+    width: 65px;
+    margin: auto;
+}
+.main-banner .slick-dots li button:before {
+    width: 10px;
+    height: 10px;
+}
+.circle-img {
+    display: none;
+}
+.kundli-sec .kundli-circle img {
+    width: 55%;
+    position: inherit;
+    margin: 20px 0 0 95px;
+}
+.ask-ques .question p {
+    height: 115px;
+}
+/*.slick-list.draggable {
+    width: 60%;
+    margin: auto;
+}*/
+.ask-ques .question p {
+    font-size: 14px;
+    height: 98px;
+    margin-top: 10px;
+}
+.ask-ques .question h3 {
+    padding-top: 14px;
+    margin-bottom: -25px;
+    font-size: 15px;
+}
+.ask-ques .question img {
+    padding-top: 10px;
+}
+.feature-sec .question .ask-pare {
+    min-height: 135px;
+}
+.card {
+    padding: 11px 10px;
+}
+.feature-head {
+    padding-bottom: 30px;
+    margin-top: 20px;
+}
+.feature-sec {
+    padding: 1rem 0 4rem 0;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 220px;
+    right: 30px;
+    display: none !important;
+}
+.feature-sec button.slide-arrow.prev-arrow.slick-arrow{
+    top: 220px;
+    left: 30px;
+    display: none !important;
+}
+.jodic-head.aos-init.aos-animate h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.calendar-sec .tab-content li {
+    line-height: 1.5;
+    padding-left: 22px;
+}
+.calendar-sec .tab-year .cont, .calendar-sec .Panchang-box, .calendar-sec .calendar {
+    min-height: 230px;
+}
+.calendar-sec .calender-head h2 {
+    font-size: 20px;
+}
+.calendar-sec .calender-head p {
+    font-size: 14px;
+}
+.calendar-sec .center {
+    font-size: 16px;
+}
+.calendar-sec {
+    padding: 2rem 0;
+}
+.heroscrpe .chek-head h3:after {
+    left: 98px;
+    width: 253px;
+}
+.jodiac-sec .jodic-head h2:before {
+    left: 194px;
+}
+.jodiac-sec .jodic-head h2:after {
+    left: 220px;
+}
+.jodiac-sec .icon-img img {
+    width: 15px;
+}
+.jodiac-sec .sign-point .icon-img {
+    width: 45px;
+    height: 44px;
+}
+.jodiac-sec .point-date h4 {
+    font-size: 14px;
+}
+.left-point {
+    margin-right: 0rem;
+}
+.right-point {
+    margin-left: 0rem;
+}
+.jodiac-sec .circle-center img {
+    margin-left: 46px;
+    width: 80%;
+}
+.about-astro-sec .about-head h4 {
+    font-size: 20px;
+}
+.about-astro-sec .about-head h4:before {
+    width: 207px;
+}
+.about-astro-sec .about-head h4 {
+    width: 207px;
+}
+.about-astro-sec .about-img img {
+    width: 60%;
+}
+.about-astro-sec .about-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+.about-astro-sec .about-img:before {
+    width: 262px;
+    height: 356px;
+    left: 111px;
+    top: -9px;
+}
+.about-astro-sec .about-head {
+    padding-bottom: 40px;
+}
+.about-astro-sec {
+    padding: 2.5rem 0 2.5rem 0;
+}
+.about-astro-sec .about-cont p {
+    line-height: 17px;
+}
+.special-team-sec {
+    padding: 2.5rem 0;
+    height: 577px;
+}
+.special-team-sec .team-head h3 {
+    font-size: 20px;
+}
+.special-team-sec .team-head img {
+    width: 153px;
+}
+.special-team-sec .team-head p {
+    font-size: 15px;
+    width: auto;
+}
+
+.team-card.aos-init.aos-animate {
+    width: 70%;
+    margin: 0 auto 35px auto;
+}
+.special-team-sec .team-card:before {
+    width: 94%;
+    top: -8px;  
+    height: 365px;
+    display: none;
+}
+.special-team-sec .team-card{
+    margin:27px auto 0 auto;  
+    width: 95%;
+}
+.feature-sec .feature-head h2 {
+    font-size: 20px;
+}
+.feature-head img {
+    width: 400px;
+}
+.discover-sec h4{
+    padding-bottom: 15px;
+}
+.discover-sec .cal-sec ul {
+    font-size: 13px;
+}
+.discover-sec {
+    padding: 2.56rem 0;
+    height: 150px;
+}
+.sign-up-sec .sign-head h2 {
+    font-size: 18px;
+    margin-top: 0px;
+}
+.sign-up-sec .sign-text p {
+    font-size: 12px;
+    margin-top: -111px;
+    margin-bottom: -23px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.sign-up-sec .male-box input#email {
+    padding-left: 15px;
+}
+.jodiac-sec .jodic-head p {
+    width: auto;
+}
+.sign-up-sec .right-sec {
+    padding: 15px 0px;
+}
+.footer .online-const h4 {
+    font-size: 20px;
+    padding-bottom: 2px;
+}
+.footer .online-const .contact h4 {
+    font-size: 20px;
+}
+.data-numerology {
+    width: 70%;
+    margin: 3rem auto 3rem auto;
+}
+.number-numero strong {
+    font-size: 2.5rem;
+}
+.redical-data, .destiny-data, .name-data {
+    width: 80px;
+    height: 80px;
+}
+.redical-data, .destiny-data, .name-data{
+    padding-bottom: 5px;
+}
+.data-numerology .num-circle p {
+    font-size: 14px;
+    padding-top: 20px;
+    text-align: left;
+}
+.content-privacy, .content-404, .content-daily-horoscope {
+    padding: 0;
+}
+
+.num-next-but {
+    margin-bottom: 0rem;
+    padding-bottom: 3rem;
+}
+.numero-table td.no-border-right {
+    padding-left: 1rem;
+}
+.content-panchang-1 {
+    width: 100%;
+    padding: 3rem 0 3.35rem 0;
+}
+.content-daily-horoscope .select-box-pan i.fa.fa-caret-left {
+    top: 5px;
+    right: -8px;
+}
+.content-panchang-1 .kundli-sec.select-box.language-box {
+    padding: 1rem 0;
+}
+.content-numerology .panchang-placebox {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+.content-numerology .panchang-timebox {
+    margin-bottom: 3rem;
+}
+.content-numerology .kundli-sec.select-box.language-box i {
+    top: 55px;
+}
+.content-numerology .panch-showbut a {
+    padding: 11px 8px;
+}
+.timebox-place input {
+    margin-bottom: 10px;
+}
+.western-numerology .panchang-timebox {
+    margin-bottom: 1.5rem;
+}
+.western-numerology .panchang-placebox {
+    margin-top: 1rem;
+}
+.timebox-date select {
+    width: 135px;
+}
+.timebox-date.format-label {
+    width: 133px;
+}
+.timebox-date.format-label {
+    width: 135px;
+}
+.lable-24 {
+    width: 135px;
+}
+.western-numerology .panch-showbut a {
+    padding: 10px 10px;
+}
+.main-menu .menu-pages {
+    display: none;
+}
+.panchang-detail {
+    margin-left: 0px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;    
+}
+.panchang-detail {
+    border-bottom: 1px solid #87378B;
+    border-right: none;
+}
+
+.panchang-top {
+    height: 40px;
+    margin-bottom: 1rem;
+}
+.panchang-left {
+    padding: 2rem 0rem;
+    border-right: none;
+    border-bottom: 1px solid #87378B;
+}
+.panchang-box {
+    padding: 2rem 3rem 0rem 3rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.panchang-data.aos-init.aos-animate {
+    width: 80%;
+    margin: 0 auto;
+}
+.daily-heading h3 {
+    font-size: 20px;
+}
+.Prediction-heading h3 {
+    font-size: 20px;
+}
+.Prediction-box {
+    margin: 1rem 0px;
+}
+.copy-right {
+    height: 45px;
+}
+.footer-center h4 {
+    font-size: 20px;
+}
+.content-get-kundali .inner-get-kundli h3 {
+    margin-top: 25px;
+}
+.content-get-kundali .birth-right .birth-details {
+    height: 642px;
+}
+.inner-get-kundli {
+    margin: 5rem auto 3rem auto;
+    width: 70%;
+}
+.content-panchang {
+    margin: 3rem auto 3rem auto;
+}
+.content-daily-horoscope .main-menu {
+    height: 626px;
+    width: 47px;
+}
+.content-daily-horoscope i.fa {
+    width: 46px;
+    height: 40px;
+    font-size: 28px;
+    height: 39px !important;
+}
+.side-daily-menu img {
+    width: 20px;
+    margin-left: 13px;
+}
+.bannerr-content .about-main-content.main-login {
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+}
+.login-page .input-box {
+    width: 100%;
+    height: 45px;
+}
+.login-page .login-box .login-boxx {
+    width: 100%;
+    height: 45px;
+}
+.welcome-back .login-boxx input {
+    width: 50%;
+    font-size: 15px;
+}
+.welcome-back h4 {
+    font-size: 22px;
+}
+.welcome-back.aos-init.aos-animate {
+    margin-top: 65px;
+}
+.login-page .circle-slide img {
+    margin: auto;
+}
+
+.content-thank h1 {
+    font-size: 30px;
+}
+.content-thank {
+    margin-bottom: 3rem;
+    margin-top: 3rem;
+}
+.content-thank p {
+    font-size: 15px;
+}
+.content-thank .orange-button a {  
+    font-size: 16px;
+    padding: 10px 17px;
+}
+.content-thank .orange-button {
+    height: 54px;
+    width: 142px;
+    line-height: 51px;
+}
+.right-404 {
+    padding-top: 0rem;
+    padding-right: 0rem;
+}
+.right-404 {
+    margin-top: 1rem;
+}
+.privacy-content h1 {
+    font-size: 22px;
+}
+.privacy-content strong {
+    font-size: 18px;
+}
+.privacy-content p {
+    font-size: 14px;
+    padding: 10px 0;
+}
+.privacy-content.aos-init.aos-animate {
+    padding: 0;
+}
+.image-bg .privacy-main.light-bg .privacy-heading {
+    margin-top: 5rem;
+    width: 100%;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 18px;
+}
+.privacy-main .privacy-heading p {
+    font-size: 14px;
+}
+.privacy-main .content-privacy {
+   padding: 18px 0px 0px 0px;
+}
+.privacy-content ul li {
+    font-size: 14px;
+}
+.content-faq .accordion-button {
+    font-size: 15px;
+}
+
+.privacy-main, .light-bg {
+    width: 100%;
+}
+.image-bg .light-bg .content-privacy .content-faq {
+    padding-top: 1rem;
+    width: 100%;
+    margin: 0 auto;
+}
+.image-bg:after{
+    height: 67%;
+}
+.customer-sec {
+    padding: 0.5rem 0 5rem 0;
+}
+.customer-sec .customer-head h2:before {
+    left: 22%;
+    width: 55%;
+}
+.customer-sec .customer-head h2:after {
+    left: 22%;
+    width: 55%;
+}
+.customer-sec .customer-head h2 {
+    font-size: 22px;
+}
+.customer-head p {
+    font-size: 14px;
+}
+.customer-sec .slick-dots li button:before{
+    width: 10px;
+    height: 10px;
+}
+.slick-dotted.slick-slider {
+    margin-top: 32px;
+}
+.kundli-sec {
+    padding: 3rem 0;
+}
+.customer-box .cus-img img {
+    width: 25%;
+}
+.customer-box .cus-img {
+    bottom: 49px;
+        margin-top:0px;
+}
+.customer-sec .customer-head {
+    margin-bottom: 10px;
+}
+.customer-slider .customer-box {
+    padding: 0px 0 25px 0;
+    margin: 20px auto 0 auto;
+    width: 90%;
+}
+.sign-up-sec {
+    padding: 2rem 0 3.5rem 0;
+}
+.form-contactus form {
+    width: 100%;
+    left: 0px;
+}
+.contactus-right {
+    margin-top: 40px;
+}
+.form-contactus{
+    border: none;
+    width: 100%;
+}
+.contactus-left {
+    width: 94%;
+}
+.contact-call-icon i {
+    font-size: 13px;
+    width: 30px;
+    height: 30px;
+}
+.contact-call-icon:before {
+    width: 38px;
+    height: 38px;
+}
+.content-contactus {
+    padding: 2rem 0 1rem 0;
+}
+.contact-call-text a {
+    font-size: 10px;
+}
+.contact-call-text {
+    padding-top: 5px;
+}
+.contactus-left {
+    padding: 3rem;
+}
+.search button.searchButton {
+    width: 103px;
+}
+.banner-title {
+    width: 86%;
+}
+.categories-sec {
+    padding: 3rem 0;
+}
+.categories-sec .information ul {
+    width: 100%;
+}
+.categories-sec .select .selet-images {
+    grid-template-columns: repeat(2, 1fr);
+}
+.select-booking .select-person {
+    margin: 0 auto;
+}
+.categories-sec .information .booking-border {
+    border-right: none;
+}
+.categories-sec .information li.amount {
+    border-bottom: 1.5px solid #00000038;
+}
+.service-benner .banner-title h3 {
+    font-size: 15px;
+}
+.banner-title h3 span {
+    font-size: 10px;
+}
+.bannerr-content .service-benner {
+    height: 75%;
+    width: 100%;
+}
+.service-benner .banner-title h3 {
+    font-size: 15px;
+}
+.categories-sec h3.left-head {
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 244px;
+    left: 90%;
+    display: none !important;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow {
+        top: 240px;
+    left: -6%;;
+       display: none !important;
+}
+.content-faq.service-faq .accordion-button::after {
+    right: 24px;
+    top: 16px;
+}
+.customer-sec ul.slick-dots {
+    bottom: -44px;
+}
+.categories-sec h4.info {
+    font-size: 21px;
+}
+.content-faq.service-faq {
+    padding: 1rem 0;
+}
+.about-main-content .bg-red-box {
+    height: 244px;
+    width: 248px;
+    left: 70px;
+    top: 117px;
+}
+.about-content .head {
+    margin-top: 45px;
+}
+.about-content p {
+    line-height: unset;
+}
+.about-but .left-but:before {
+    width: 169px;
+    height: 52px;
+}
+.right-but .num p {
+    font-size: 11px;
+    line-height: 1;
+}
+.about-but .right-but:before {
+    width: 179px;
+    height: 52px;
+}
+.about-but .left-but{
+    margin-left: 4px;
+}
+.about-but .right-but {
+    height: 44px;
+    width: 170px;   
+}
+.about-but .left-but {
+    height: 44px;
+    width: 159px;
+}
+.choose-counter-sec .cont-flex {
+    width: 50%;
+    height: 210px;
+}
+.choose-counter-sec .choose-box {
+    padding-bottom: 25px;
+}
+.cho-head {
+    margin-bottom: 35px;
+}
+.choose-counter-sec .cho-head h2 {
+    font-size: 24px;
+    width: 169px;
+}
+.choose-counter-sec .cho-head h2:before {
+    width: 169px;
+}
+.choose-counter-sec {
+    padding: 3rem 0 1rem 0;
+}
+.choose-counter-sec .choose-head {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.banner-main-sec .about-main-content {
+    padding: 3rem 0 3rem 0;
+}
+.banner-main-sec .about-main-content {
+    width: 100%;
+}
+.about-main-content .clock-img img {
+    width: 80%;
+}
+.banner-main-sec .about-main-content .row {
+    padding: 0px 10px;
+}
+.about-main-content .clock-img img {
+    width: 60%;
+}
+.about-main-content .clock-img {
+    text-align: center;
+}
+.footer {
+    padding: 2rem 0rem;
+}
+
+.slick-dots li {
+    width: 15px;
+}
+.service-card-box .card-sec {
+    grid-template-columns: repeat(2,1fr);
+    margin: 0 29px;
+}
+.service-bg-sec .service-header h2 {
+    font-size: 22px;
+}
+.service-card-header h2:before {
+    bottom: -20px;
+    width: 100%;
+}
+.service-card-header-box {
+width: 73%;
+}
+.service-card-header h2 {
+    font-size: 20px;
+    width: 350px;
+}
+.service-card-grid .card-box {
+    width: 100%;
+}
+.service-card-box .card-sec {
+    grid-column-gap: 25px;
+}
+.card-header p {
+    font-size: 11px;
+}
+.service-card-grid .card-header h4 {
+    font-size: 15px;
+}
+.form-contactus:before {
+    border: none;
+}
+.welcome-back .login-boxx a {
+    font-size: 12px;
+}
+.login-box .chckckeds p {
+    font-size: 12px;
+}
+.inner-banner {
+    height: 72%;
+}
+.content-daily-horoscope .numerology-details .main-menu {
+    height: 785px !important;
+    top: 1%;
+}
+.numerology-details {
+    margin-bottom: 0px;
+    padding-bottom: 15px;
+    padding-top: 17px;
+    margin-top: 4rem;
+}
+.top-numerology strong, .bottom-numerology strong {
+    margin-left: 4px;
+}
+.natal-chart {
+    margin-bottom: 25px;
+}
+.dailyhoro-inner {
+    margin: 3rem auto 3rem auto;
+    margin-right: 20px !important;
+}
+.ask-ques .question {
+    width: 100%;
+}
+
+.privacy-heading {
+    width: 93%;
+    margin-top: 2rem;
+}
+.about-cont {
+    margin-top: 0;
+}
+.whatwedo-item-inner .left_side_card .innner_content img {
+    padding-bottom: 10px;
+}
+.whatwedo-item-inner .festival-card .left_side_card .innner_content img {
+    padding-bottom: 50px;
+}
+.special-team-sec .slick-next {
+    right: 0px;
+}
+.special-team-sec .slick-prev{
+    left: 0px;
+}
+.special-team-sec .slick-next:before {
+    display: none;
+}
+.special-team-sec .slick-prev:before {
+    display: none;
+}
+}
+@media (max-width:460px){
+
+    .service-card-box .card-sec {
+    margin: 0px 21px;
+}
+    .ask-ques .question p {
+    line-height: 1.3;
+}
+    .about-astro-sec .about-img:before {
+    width: 244px;
+    height: 340px;
+    }
+    
+    .special-team-sec .team-card:before {
+    width: 283px;
+    height: 350px;
+}
+    .jodiac-sec .jodic-head h2:before {
+    left: 182px;
+}
+.jodiac-sec .jodic-head h2:after {
+    left: 208px;
+}
+
+.heroscrpe .chek-head h3:after {
+    left: 88px;
+}
+.timebox-date select {
+    width: 130px;
+}
+.content-panchang-1 .panchang-timebox input {
+    width: 130px;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 18px;
+}
+.privacy-main .privacy-heading p {
+    font-size: 14px;
+}
+.content-faq.service-faq .accordion-button {
+    padding-left: 17px;
+}
+.about-main-content .bg-red-box {
+    height: 72%;
+    width: 59%;
+    left: 16%;
+    top: 33%;
+}
+.service-card-header-box {
+    width: 76%;
+}
+.service-card-header h2:before {
+    width: 100%;
+}
+.timebox-date.format-label {
+    width: 128px;
+}
+.lable-24 {
+    width: 128px;
+}
+}
+@media (max-width:428px) {
+    .service-card-box .card-sec {
+    grid-column-gap:25px;
+}
+    
+    .service-card-box .card-sec {
+    margin: 0 16px;
+}
+    .customer-slider .customer-box {
+    margin: 20px auto 0 20px;
+}
+    .feature-sec button.slide-arrow.prev-arrow.slick-arrow {
+    top: 185px;
+}
+.feature-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 185px;
+}
+    .ask-ques .question p {
+    font-size: 13px;
+    }
+    .timebox-date.format-label {
+    width: 116px;
+}
+    .lable-24 {
+    width: 116px;
+}
+    .main-banner .details-page .detail-but {
+    /*width: 85%;*/
+    height: 40px;
+/*    margin-top: 22px;*/
+}
+.banner-content h1 {
+    font-size: 20px;
+}
+.banner-content h1 span {
+    font-size: 21px;
+}
+.heroscrpe .chek-head h3:after{
+    left: 72px;
+}
+.jodiac-sec .jodic-head h2:before {
+    left: 165px;
+}
+.jodiac-sec .jodic-head h2:after {
+    left: 190px;
+}
+.about-astro-sec .about-img:before {
+    width: 218px;
+    height: 315px;
+}
+.special-team-sec .team-card:before {
+    width: 271px;
+    height: 366px;
+}
+.feature-head img {
+    width: 100%;
+}
+.discover-sec .cal-sec span {
+    padding: 0px 6px;
+}
+.footer-logo img {
+    width: 100px;
+}
+
+.content-panchang-1 .panchang-timebox input {
+    width: 116px;
+}
+.timebox-date select {
+    width: 116px;
+}
+
+.login-page .circle-slide img {
+    width: 211px;
+}
+.login-page .welcome-back img {
+    width: 100px;
+}
+.containue-btn p {
+    font-size: 13px;
+}
+
+.login-box .detail-box {
+    margin-bottom: 14px;
+}
+.login-box .detail-box .login-box input::placeholder {
+    font-size: 12px;
+}
+.welcome-back.aos-init.aos-animate {
+    margin-top: 65px;
+    margin-left: -7px;
+}
+.content-faq .accordion-button {
+    font-size: 14px;
+}
+.content-faq.service-faq .accordion-button::after {
+    right: 15px;
+    top: 19px;
+}
+.content-faq .accordion-body {
+    font-size: 14px;
+}
+.customer-slider .customer-box {
+    margin: 20px auto 0 auto;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow {
+    left: -21px;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    top: 242px;
+    
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    right: -32px;
+}
+.customer-sec .customer-head h2:before {
+    left: 19%;
+    width: 61%;
+}
+.customer-sec .customer-head h2:after {
+    left: 19%;
+    width: 61%;
+}
+.categories-sec .catr-pare p {
+    font-size: 14px;
+}
+.categories-sec .cate-head h3 {
+    font-size: 18px;
+}
+.choose-counter-sec .cont-flex {
+    height: 180px;
+}
+.cho-head {
+    margin-bottom: 45px;
+}
+.customer-box .cus-img {
+    bottom: 37px;
+}
+.service-card-header-box {
+    width: 90%;
+}
+.service-card-header-box {
+    width: 82%;
+    margin-bottom: 30px;
+}
+
+/*.service-card-grid .card-box {
+    width: 168px;
+    height: 228px;
+}*/
+}
+
+@media (max-width:420px){
+    
+    
+.service-card-box .card-sec {
+    margin: 0px 10px;
+}
+
+.service-card-box .card-sec {
+    grid-column-gap: 25px;
+}
+    .welcome-back .login-boxx a {
+    font-size: 11px;
+}
+    .ask-ques .question h3{
+        font-size: 14px;
+    }
+    .about-astro-sec .about-img:before {
+    width: 212px;
+    height: 308px;
+}
+.heroscrpe .chek-head h3:after {
+    left: 68px;
+    width: 253px;
+}
+.about-astro-sec .about-head {
+    padding-bottom: 35px;
+}
+.special-team-sec .team-card:before {
+    width: 263px;
+    height: 363px;
+}
+.num-table {
+    margin: 2rem 0 1rem 0;
+}
+.data-numerology .num-circle p {
+    padding-top: 15px;
+    margin-right: 15px;
+    margin-left: 18px;
+}
+.service-card-header-box {
+width: 83.4%;
+}
+
+}
+@media (max-width:412px){
+    .image-bg .privacy-main.light-bg .privacy-heading {
+    margin-top: 2rem;
+}
+   .service-card-header-box {
+    width: 85%;
+}
+    .whatwedo-wrapper {
+    grid-template-columns: repeat(1,1fr);
+}
+.whatwedo-item-inner {
+    height: 242px;
+    width: 55%;
+}
+    .data-numerology .num-circle p {
+    margin: 0 15px;
+}
+
+.card-header p {
+    font-size: 12px;
+    margin: 3px 0;
+}
+
+.service-card-grid .card-button {
+    margin-top: 5px;
+}
+    .lable-24 {
+    width: 110px;
+}
+    .timebox-date.format-label {
+    width: 110px;
+}
+    .about-astro-sec .about-img:before {
+    width: 208px;
+    height: 305px;
+}
+
+.special-team-sec .team-card:before {
+    left: 12px;
+}
+
+.timebox-date select {
+    width: 112px;
+}
+.content-panchang-1 .panchang-timebox input {
+    width: 112px;
+}
+.Prediction-box {
+    margin: 1rem 20px;
+}
+.login-page .circle-slide img {
+    width: 200px;
+}
+.welcome-back .containue-btn a.btns {
+    padding: 8px 18px 10px 18px;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 17px;
+}
+.content-faq.service-faq .accordion-button::after {
+    right: 7px;
+    top: 22px;
+}
+.customer-sec .customer-head h2:before {
+    left: 18%;
+    width: 63%;
+}
+.customer-sec .customer-head h2:after {
+    left: 18%;
+    width: 63%;
+}
+.image-bg .privacy-main.light-bg .privacy-heading {
+    margin-top: 2rem;
+}
+
+}
+@media (max-width:385px){
+    .ask-ques .question h3 {
+    line-height: 1;
+    padding-top: 10px;
+}
+    .timebox-date.format-label {
+    width: 104px;
+}
+.lable-24 {
+    width: 103px;
+}
+    .content-daily-horoscope .select-box-pan i.fa.fa-caret-left {
+    top: 3px;
+    }
+.main-banner .circle-img img {
+    left: -262px;
+}
+.kundli-sec {
+    padding: 3rem 0;
+}
+.about-astro-sec .about-img:before {
+    width: 186px;
+    height: 285px;
+}
+.about-astro-sec .about-cont p {
+    line-height: 19px;
+}
+.team-card.aos-init.aos-animate {
+    width: 75%;
+    margin: auto;
+    margin-bottom: 35px;
+}
+.special-team-sec .team-card:before {
+    width: 257px;
+    height: 360px;
+    left: 20px;
+    
+}
+.discover-sec h4 {
+    padding-bottom: 8px;
+    
+}
+.discover-sec h4 {
+    font-size: 18px;
+}
+.sign-up-sec {
+    padding: 2rem 0 3rem 0;
+}
+.footer-center h4 {
+    font-size: 20px;
+    padding-bottom: 2px;
+}
+
+.main-banner .details-page .detail-but {
+    height: 40px;
+/*    margin-top: 10px;*/
+}
+.redical-data, .destiny-data, .name-data {
+    width: 66px;
+    height: 66px;
+    margin: 0 auto;
+}
+.number-numero strong {
+    font-size: 2rem;
+}
+.data-numerology .num-circle p {
+    margin-right: 16px;
+    width: 100%;
+    
+}
+.copy-right {
+    height: 40px;
+}
+.footer-center h4 {
+    font-size: 18px;
+}
+.footer .online-const h4 {
+    font-size: 18px;
+}
+.footer .online-const .contact h4 {
+    font-size: 18px;
+}
+.num-next-but a {
+    font-size: 15px;
+    padding: 9px 24px;
+}
+.timebox-date select {
+    width: 107px;
+    font-size: 13px;
+    height: 40px;
+}
+.content-panchang-1 .panchang-timebox input {
+    width: 107px;
+    height: 40px;    
+}
+.content-panchang-1 .panchang-timebox input::placeholder {
+    font-size: 13px;
+}
+.content-panchang-1 select.selectpicker {
+    height: 40px;
+    font-size: 14px;
+}
+.timebox-place input {
+    height: 40px;
+}
+.timebox-place input::placeholder {
+    font-size: 14px !important;
+}
+.content-numerology .panch-showbut a {
+    padding: 8px 7px;
+    font-size: 13px;
+}
+.lable-24 {
+    height: 40px;
+}
+.panchang-timebox .lable-24 label {
+    font-size: 13px;
+}
+.timebox-date.format-label {
+    width: 103px;
+}
+.login-page .circle-slide img {
+    width: 190px;
+}
+.login-page .circle-slide .slick-dots li button:before {
+    font-size: 10px;
+}   
+.content-thank h1 {
+    font-size: 28px;
+}
+.content-thank .orange-button a {
+    padding: 7px 14px;
+}
+.content-thank .orange-button {
+    height: 46px;
+    width: 133px;
+    line-height: 44px;
+}
+.privacy-main .privacy-heading strong {
+    font-size: 16px;
+}
+.privacy-main .privacy-heading p {
+    font-size: 12px;
+}
+.content-thank .check-thank i.fa.fa-check {
+    font-size: 40px;
+}
+.right-404 h1 {
+    font-size: 85px;
+}
+.right-404 strong {
+    font-size: 25px;
+}
+.orange-button a {
+    font-size: 15px;
+    padding: 9px 12px;
+}
+.orange-button {
+    height: 47px;
+    width: 121px;
+    line-height: 45px;
+}
+.contactus-left {
+    height: 100%;
+}
+.contactus-right {
+    margin-top: 30px;
+}
+.contactus-left {
+    padding: 2rem;
+}
+.contact-info h3 {
+    font-size: 22px;
+}
+.contact-info {
+    width: 200px;
+    border-bottom: 4px solid #F68820;
+}
+.contact-info h3 {
+    width: 202px;
+}
+.sign-up-sec .sign-text p {
+    margin-left: 65px;
+}
+.method .payment-but {
+    width: 100%;
+}
+.book-button {
+    margin-top: 18px;
+}
+.customer-sec .customer-head h2:before {
+    left: 16%;
+    width: 68%;
+}
+.customer-sec .customer-head h2:after {
+    left: 16%;
+    width: 68%;
+}
+.planetary-top img {
+    width: 10px;
+}
+.about-head h2 {
+    font-size: 20px;
+}
+.about-content .head h2 {
+    font-size: 20px;
+    width: 113px;
+}
+.about-content .head h2:before {
+    top: 28px;
+    width: 113px;
+}
+.choose-counter-sec .cho-head h2 {
+    font-size: 22px;
+    width: 100%;
+}
+.choose-counter-sec .cho-head h2:before {
+    width: 100%;
+    top: 33px;   
+}
+.choose-counter-sec .cont-flex {
+    height: 161px;
+}
+.choose-counter-sec .counters h3 {
+    font-size: 16px;
+}
+.slick-dots li {
+    width: 11px;
+}
+.about-but .right-but:before {
+    width: 165px;
+}
+.about-but .left-but:before {
+    width: 154px;
+}
+.right-but .num span {
+    font-size: 14px;
+}
+.service-card-header-box {
+    width: 90.5%;
+    margin-bottom: 30px;
+}
+/*.service-card-grid .card-box {
+    width: 185px;
+    height: 233px;
+}*/
+
+.service-bg-sec .service-header h2 {
+    font-size: 20px;
+    margin-bottom: 2px;
+}
+.panch-showbut a {
+    padding: 10px 7px;
+    font-size: 13px;
+}
+.data-numerology {
+    width: 75% !important;
+}
+}
+@media (max-width:375px){
+    .kundli-select h4{font-size: 18px;}
+     .banner-content p{font-size: 13px;}
+    .banner-content h1{    font-size: 18px;}
+    .kundli-select p{font-size: 13px;}
+    .kundli-sec .type-face h4{font-size: 18px;}
+    .kundli-sec .type-face p{    padding-top: 0;
+    font-size: 13px;}
+    .heroscrpe .chek-head h3{font-size: 18px;}
+    .heroscrpe .chek-head h3:before{    width: 215px;}
+    .heroscrpe .chek-head h3:before{    bottom: -6px;    left: 60px; width: 225px;}
+    .heroscrpe .chek-head h3:after{width: 215px;}
+    .calendar-sec .calender-head h2{font-size: 16px;}
+    .jodic-head.aos-init.aos-animate h2{font-size: 17px;}
+    .jodiac-sec .jodic-head{    padding-bottom: 9px;}
+    .jodiac-sec {
+    padding: 1rem 0;
+}
+.jodiac-sec .jodic-head p{font-size: 12px;}
+.feature-sec .feature-head h2{font-size: 16px;}
+.about-astro-sec {
+    padding: 1.5rem 0 1.5rem 0;
+}
+.about-astro-sec .about-cont p{    font-size: 12px;}
+.discover-sec h4{font-size: 17px;}
+.discover-sec .cal-sec li{    font-size: 9px;}
+.daily-heading img {
+    width: 60px;
+}
+.daily-heading h3 {
+    font-size: 16px;
+}
+.Prediction-heading h3 {
+    font-size: 16px;
+}
+.Prediction-content p {
+    font-size: 13px;
+}
+.footer p.footer-pare{font-size: 13px;}
+.footer .footer-link ul i {
+    font-size: 20px;
+}
+.footer-center ul.quick-link {
+    font-size: 12px;
+}
+.online-const ul.online{    font-size: 12px;}
+.dailyhoro-inner {
+    margin: 3rem auto 3rem auto;
+}
+
+    .ask-ques .question p {
+    line-height: 1.17;
+}
+.heroscrpe .chek-head h3:after {
+    left: 60px;
+    width: 225px;
+}
+.main-banner .banner-btn .left-but a {
+    width: 102px;
+    height: 31px;
+}
+.main-banner .banner-btn .left-but {
+    width: 115px !important;
+}
+.main-banner .banner-btn .right-but a {
+    width: 147px;
+    height: 32px;
+}
+.jodiac-sec .jodic-head h2:before {
+    left: 137px;
+}
+.jodiac-sec .jodic-head h2:after {
+    left: 163px;
+}
+
+.about-astro-sec .about-img:before {
+    width: 196px;
+    height: 278px;
+    left: 92px;
+}
+.special-team-sec .team-card:before {
+    width: 252px;
+}
+.feature-head img {
+    width: 291px;
+}
+.discover-sec .cal-sec ul {
+    font-size: 12px;
+}
+.sign-up-sec .sign-head h2 {
+    font-size: 16px;
+    margin-top: 5px;
+}
+.sign-up-sec .sign-text p {
+    margin-left: 70px;
+}
+
+.login-page .circle-slide .slick-dots li {
+    width: 4px;
+}
+.content-faq.service-faq div#accordionExample {
+    width: 96%;
+} 
+.content-faq.service-faq .accordion-button::after {
+    right: 12px;
+}
+.customer-sec .customer-head h2:before {
+    left: 14%;
+    width: 72%;
+}
+.customer-sec .customer-head h2:after {
+    left: 14%;
+    width: 72%;
+}
+.about-but .left-but:before {
+    width: 150px;
+}
+.about-but .right-but:before {
+    width: 159px;
+}
+.service-card-header-box {
+    width: 349px;
+}
+
+}
+@media (max-width:360px){
+    .timebox-date.format-label {
+    width: 100px;
+}
+.lable-24 {
+    width: 99px;
+}
+    .kundli-sec .kundli-circle img {
+    margin: 20px 0 0 60px;
+}
+.about-astro-sec .about-img:before {
+    width: 183px;
+    height: 268px;
+}
+.special-team-sec .team-card:before {
+    width: 239px;
+    height: 362px;
+}
+.discover-sec h4 {
+    padding-bottom: 0px;
+}
+
+.content-get-kundali .birth-box p {
+    width: 113px;
+}
+.choose-counter-sec .cont-flex {
+    height: 150px;
+}
+.about-but .left-but a {
+    font-size: 14px;
+}
+.about-but .left-but:before {
+    width: 142px;
+}
+.about-but .right-but:before {
+    width: 152px;
+}
+.service-card-header h2 {
+    font-size: 18px;
+}
+.service-card-header h2 {
+    font-size: 18px;
+    width: 315px;
+}
+.service-card-header-box {
+    width: 315px;
+}
+.timebox-date select {
+    width: 102px;
+}
+.content-panchang-1 .panchang-timebox input {
+    width: 102px;  
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow {
+    left: -28px;
+}
+.method .payment-but i {
+    padding-right: 4px;
+}
+}
+@media (max-width:320px){
+    .service-card-header h2 {
+    width: 278px;
+}
+.service-card-header h2:before {
+    width: 88%;
+    left: 17px;
+}
+.service-card-header {
+    margin-left: -18px;
+}
+.service-card-header-box {
+    width: 244px;
+}
+.customer-sec .customer-head h2:before {
+    left: 7%;
+    width: 85%;
+}
+.customer-sec .customer-head h2:after {
+    left: 7%;
+    width: 85%;
+}
+.customer-sec button.slide-arrow.next-arrow.slick-arrow {
+    right: -19px;
+    top: 208px;
+}
+.customer-sec button.slide-arrow.prev-arrow.slick-arrow{
+   left: -28px;
+    top: 207px;
+}
+
+}
+/*.featre-btm-sec .feature-btm-slide ul.slick-dots{
+    display:none !important;
+}*/

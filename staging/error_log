@@ -1,0 +1,18 @@
+[11-Jul-2023 09:55:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php:110
+Stack trace:
+#0 /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php(146): Kint\Utils::composerGetExtras()
+#1 /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/init.php(56): Kint\Utils::composerSkipFlags()
+#2 /home/manishastro/public_html/Astrotest/vendor/composer/autoload_real.php(55): require('/home/manishast...')
+#3 /home/manishastro/public_html/Astrotest/vendor/composer/autoload_real.php(38): composerRequire2b790312b74f8844a5d65b0028e33bc7('3917c79c5052b27...', '/home/manishast...')
+#4 /home/manishastro/public_html/Astrotest/vendor/autoload.php(12): ComposerAutoloaderInit2b790312b74f8844a5d65b0028e33bc7::getLoader()
+#5 /home/manishastro/public_html/Astrotest/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(119): include('/home/manishast...')
+#6 /home/manishastro/public_html/Astrotest/vendor/codeigniter4/framework/system/Au in /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php on line 110
+[11-Jul-2023 09:57:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function json_decode() in /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php:110
+Stack trace:
+#0 /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php(146): Kint\Utils::composerGetExtras()
+#1 /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/init.php(56): Kint\Utils::composerSkipFlags()
+#2 /home/manishastro/public_html/Astrotest/vendor/composer/autoload_real.php(55): require('/home/manishast...')
+#3 /home/manishastro/public_html/Astrotest/vendor/composer/autoload_real.php(38): composerRequire2b790312b74f8844a5d65b0028e33bc7('3917c79c5052b27...', '/home/manishast...')
+#4 /home/manishastro/public_html/Astrotest/vendor/autoload.php(12): ComposerAutoloaderInit2b790312b74f8844a5d65b0028e33bc7::getLoader()
+#5 /home/manishastro/public_html/Astrotest/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(119): include('/home/manishast...')
+#6 /home/manishastro/public_html/Astrotest/vendor/codeigniter4/framework/system/Au in /home/manishastro/public_html/Astrotest/vendor/kint-php/kint/src/Utils.php on line 110
