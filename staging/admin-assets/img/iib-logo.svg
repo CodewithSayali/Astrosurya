@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 431 136" width="431" height="136">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 71px;fill: #005592;font-weight: 800;font-family: "Gilroy-ExtraBold", "Gilroy" } 
+		.t1 { font-size: 71px;fill: #000000;font-weight: 800;font-family: "Gilroy-ExtraBold", "Gilroy" } 
+		.t2 { font-size: 71px;fill: #f68423;font-weight: 800;font-family: "Gilroy-ExtraBold", "Gilroy" } 
+	</style>
+	<text id="Investment In Bonds.com" style="transform: matrix(1,0,0,1,-4,50)" >
+		<tspan x="0" y="0" class="t0">Investment</tspan><tspan  y="0" class="t0">
+</tspan>
+		<tspan x="0" y="85.2" class="t0">In</tspan><tspan  y="85.2" class="t1"> </tspan><tspan  y="85.2" class="t2">Bonds.com
+</tspan>
+	</text>
+</svg>
